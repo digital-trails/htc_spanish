@@ -2,7 +2,7 @@
     "name": "rationale",
     "pages": [
       { 
-        "name": "rationaleFirstPage"
+        "name": "page://scripts/pages/rationaleFirstPage.json"
       }
     ]
   }
