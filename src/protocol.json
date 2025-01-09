@@ -9,17 +9,17 @@
 		"button_tl": {
 			"text": "¿Qué es MindTrails Español?",
 			"icon": "/assets/home_mindtrails.png",
-			"action": "script://rationale"
+			"action": "flow://scripts/flows/rationale.json"
 		},
 		"button_tr": {
 			"text": "Instrucciones",
 			"icon": "/assets/home_instructions.png",
-			"action": "script://instructions"
+			"action": "flow://scripts/flows/instructions.json"
 		},
 		"button_br": {
 			"text": "Recursos",
 			"icon": "/assets/home_resources.png",
-			"action": "script://ending"
+			"action": "flow://scripts/flows/reasons_for_ending.json"
 		},
 		"button_bl": {
 			"text": "¿Qué es la Ansiedad?",
@@ -88,7 +88,6 @@
 		"biweekly": "/scripts/biweekly.json",
 		"eod": "/scripts/eod.json",
 		"faq": "/scripts/faq.json",
-		"instructions": "/scripts/instructions.json",
 		"sessions": "/scripts/sessions.json",
 		"intro": "/scripts/intro.json",
 		"sessions_personal": "/scripts/sessions_personal.json",
@@ -108,8 +107,6 @@
 		"resources_romantic": "/scripts/resources_romantic.json",
 		"resources_social": "/scripts/resources_social.json",
 		"resources_discrimination": "/scripts/resources_discrimination.json",
-		"rationale": "/scripts/rationale.json",
-		"ending": "/scripts/reasons_for_ending.json",
 		"anxiety": "/scripts/what_is_anxiety.json",
 		"disclaimer": "/scripts/disclaimer.json"
 	},
