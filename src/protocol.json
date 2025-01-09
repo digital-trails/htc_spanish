@@ -19,12 +19,12 @@
 		"button_br": {
 			"text": "Recursos",
 			"icon": "/assets/home_resources.png",
-			"action": "flow://scripts/flows/reasons_for_ending.json"
+			"action": "flow://scripts/flows/resources.json"
 		},
 		"button_bl": {
 			"text": "¿Qué es la Ansiedad?",
 			"icon": "/assets/home_anxiety.png",
-			"action": "script://anxiety"
+			"action": "flow://scripts/flows/what_is_anxiety.json"
 		}
 	},
 	"menu": {
@@ -35,7 +35,7 @@
 		"unenroll": {
 			"text": "Unenroll",
 			"icon": "/assets/menu_unenroll.png",
-			"action": "script://ending"
+			"action": "flow://scripts/flows/reasons_for_ending.json"
 		},
 		"log_out": {
 			"text": "Log Out",
@@ -45,27 +45,27 @@
 			{
 				"text": "¿Qué es MindTrails Español?",
 				"icon": "/assets/menu_mindtrails.png",
-				"action": "script://rationale"
+				"action": "flow://scripts/flows/rationale.json"
 			},
 			{
 				"text": "Instrucciones",
 				"icon": "/assets/menu_instructions.png",
-				"action": "script://instructions"
+				"action": "flow://scripts/flows/instructions.json"
 			},
 			{
 				"text": "¿Qué es la Ansiedad?",
 				"icon": "/assets/menu_anxiety.png",
-				"action": "script://anxiety"
+				"action": "flow://scripts/flows/what_is_anxiety.json"
 			},
 			{
 				"text": "Recursos",
 				"icon": "/assets/menu_resources.png",
-				"action": "script://resources"
+				"action": "flow://scripts/flows/resources.json"
 			},
 			{
 				"text": "F.A.Q.",
 				"icon": "/assets/menu_faq.png",
-				"action": "script://faq"
+				"action": "flow://scripts/flows/faq.json"
 			},
 			{
 				"text": "Meet the Team",
@@ -80,51 +80,25 @@
 			{
 				"text": "Disclaimer",
 				"icon": "/assets/menu_disclaimer.png",
-				"action": "script://disclaimer"
+				"action": "flow://scripts/flows/disclaimer.json"
 			}
 		]
 	},
-	"scripts": {
-		"biweekly": "/scripts/biweekly.json",
-		"eod": "/scripts/eod.json",
-		"faq": "/scripts/faq.json",
-		"sessions": "/scripts/sessions.json",
-		"intro": "/scripts/intro.json",
-		"sessions_personal": "/scripts/sessions_personal.json",
-		"sessions_family": "/scripts/sessions_family.json",
-		"sessions_finances": "/scripts/sessions_finances.json",
-		"sessions_mental": "/scripts/sessions_mental.json",
-		"sessions_physical": "/scripts/sessions_physical.json",
-		"sessions_romantic": "/scripts/sessions_romantic.json",
-		"sessions_social": "/scripts/sessions_social.json",
-		"sessions_discrimination": "/scripts/sessions_discrimination.json",
-		"resources": "/scripts/resources.json",
-		"resources_personal": "/scripts/resources_personal.json",
-		"resources_family": "/scripts/resources_family.json",
-		"resources_finances": "/scripts/resources_finances.json",
-		"resources_mental": "/scripts/resources_mental.json",
-		"resources_physical": "/scripts/resources_physical.json",
-		"resources_romantic": "/scripts/resources_romantic.json",
-		"resources_social": "/scripts/resources_social.json",
-		"resources_discrimination": "/scripts/resources_discrimination.json",
-		"anxiety": "/scripts/what_is_anxiety.json",
-		"disclaimer": "/scripts/disclaimer.json"
-	},
 	"sessions": [
-		"script://sessions"
+		"flow://scripts/flows/sessions.json"
 	],
 	"triggers": [
 		{
 			"type": "timing",
 			"action": "survey",
-			"content": "script://eod",
+			"content": "flow://scripts/flows/eod.json",
 			"frequency": "1",
 			"time": "20:00"
 		},
 		{
 			"type": "timing",
 			"action": "survey",
-			"content": "script://biweekly",
+			"content": "flow://scripts/flows/biweekly.json",
 			"frequency": "14",
 			"time": "20:00",
 			"requires": ["sessions"]
