@@ -1,0 +1,6 @@
+{
+    "name": "FrequentlyAskedQuestions",
+    "pages": [
+		{ "name": "faq_page1" , "condition":null}
+    ]
+}
