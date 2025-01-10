@@ -1,6 +1,6 @@
 {
     "name": "FrequentlyAskedQuestions",
     "pages": [
-		{ "name": "faq_page1" , "condition":null}
+		  { "name": "page://scripts/pages/faq/1.json" }
     ]
 }

@@ -1,0 +1,29 @@
+{
+    "title": "Imágenes ansiosas principales",
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Text",
+                "properties": {
+                    "text": "¿Qué tan vívidamente imaginaste la situación?"
+                }
+            },
+            {
+                "type": "Buttons",
+                "name": "imagery_vivid",
+                "properties": {
+                    "buttons": [
+                        "Nada vívido",
+                        "Algo vívido",
+                        "Moderadamente vívido",
+                        "Muy vívido",
+                        "Totalmente vívido",
+                        "^Prefiero no responder"
+                    ],
+                    "selectable": true
+                }
+            }
+        ]
+    }
+}

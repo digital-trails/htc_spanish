@@ -1,0 +1,21 @@
+{
+    "title": null,
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Text",
+                "properties": {
+                    "text": "¡Presione play en el video de entrenamiento a continuación para obtener más información!"
+                }
+            },
+            {
+                "type": "Media",
+                "properties": {
+                    "path": "/videos/video3.mp4"
+                },
+                "border": true
+            }
+        ]
+    }
+}

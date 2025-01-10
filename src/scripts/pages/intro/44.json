@@ -1,0 +1,25 @@
+{
+    "title": "Medidas de sesgo de interpretación",
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Text",
+                "properties": {
+                    "text": "¿Te hiciste análisis de sangre?"
+                }
+            },
+            {
+                "type": "Buttons",
+                "name": "IBM_blood",
+                "properties": {
+                    "buttons": [
+                        "Sí",
+                        "No"
+                    ],
+                    "selectable": true
+                }
+            }
+        ]
+    }
+}

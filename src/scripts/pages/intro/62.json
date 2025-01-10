@@ -1,0 +1,28 @@
+{
+    "title": "Medidas de sesgo de interpretación",
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Text",
+                "properties": {
+                    "text": "CONOCER A UN AMIGO: Llegas un poco tarde y...\n\nPide tu snack favorito."
+                }
+            },
+            {
+                "type": "Buttons",
+                "name": "IBM_friend_interpretation_1",
+                "properties": {
+                    "buttons": [
+                        "Muy diferente",
+                        "Diferente",
+                        "Similar",
+                        "Muy similar",
+                        "Prefiero no responder"
+                    ],
+                    "selectable": true
+                }
+            }
+        ]
+    }
+}

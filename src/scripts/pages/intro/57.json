@@ -1,0 +1,28 @@
+{
+    "title": "Medidas de sesgo de interpretación",
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Text",
+                "properties": {
+                    "text": "EL TRABAJO: Piensas en no tener ingresos durante unas semanas...\n\nY estás triste por dejar a tus companeros de trabajo actuales."
+                }
+            },
+            {
+                "type": "Buttons",
+                "name": "IBM_job_interpretation_4",
+                "properties": {
+                    "buttons": [
+                        "Muy diferente",
+                        "Diferente",
+                        "Similar",
+                        "Muy similar",
+                        "Prefiero no responder"
+                    ],
+                    "selectable": true
+                }
+            }
+        ]
+    }
+}

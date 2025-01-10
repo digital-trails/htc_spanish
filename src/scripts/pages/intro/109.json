@@ -1,0 +1,29 @@
+{
+    "title": "Imágenes ansiosas principales",
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Text",
+                "properties": {
+                    "text": "Si esta situación terminara mal, ¿qué tan bien o mal serías capaz de manejarla?"
+                }
+            },
+            {
+                "type": "Buttons",
+                "name": "imagery_handling",
+                "properties": {
+                    "buttons": [
+                        "Muy bien",
+                        "Algo bien",
+                        "Neutral",
+                        "Algo mal",
+                        "Muy mal",
+                        "^Prefiero no responder"
+                    ],
+                    "selectable": true
+                }
+            }
+        ]
+    }
+}

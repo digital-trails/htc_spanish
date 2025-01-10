@@ -1,0 +1,28 @@
+{
+    "title": "Medidas de sesgo de interpretación",
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Text",
+                "properties": {
+                    "text": "EL ASCENSOR: El edificio parece viejo y cuando subes al ascensor...\n\nPiensas en lo mal que huele el vestíbulo."
+                }
+            },
+            {
+                "type": "Buttons",
+                "name": "IBM_elevator_interpretation_3",
+                "properties": {
+                    "buttons": [
+                        "Muy diferente",
+                        "Diferente",
+                        "Similar",
+                        "Muy similar",
+                        "Prefiero no responder"
+                    ],
+                    "selectable": true
+                }
+            }
+        ]
+    }
+}

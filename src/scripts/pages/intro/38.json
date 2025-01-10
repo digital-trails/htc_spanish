@@ -1,0 +1,25 @@
+{
+    "title": "Medidas de sesgo de interpretación",
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Text",
+                "properties": {
+                    "text": "¿Tienes ensalada para el almuerzo?"
+                }
+            },
+            {
+                "type": "Buttons",
+                "name": "IBM_lunch",
+                "properties": {
+                    "buttons": [
+                        "Sí",
+                        "No"
+                    ],
+                    "selectable": true
+                }
+            }
+        ]
+    }
+}

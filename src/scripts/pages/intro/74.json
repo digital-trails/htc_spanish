@@ -1,0 +1,28 @@
+{
+    "title": "Medidas de sesgo de interpretación",
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Text",
+                "properties": {
+                    "text": "EL VIAJE DE COMPRAS: Piensas en tu salud reciente...\n\nY crees que probablemente estés contrayendo esa extrana enfermedad."
+                }
+            },
+            {
+                "type": "Buttons",
+                "name": "IBM_shopping_interpretation_1",
+                "properties": {
+                    "buttons": [
+                        "Muy diferente",
+                        "Diferente",
+                        "Similar",
+                        "Muy similar",
+                        "Prefiero no responder"
+                    ],
+                    "selectable": true
+                }
+            }
+        ]
+    }
+}

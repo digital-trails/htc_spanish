@@ -1,0 +1,21 @@
+{
+    "title": "Ejercicio de limón",
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Text",
+                "properties": {
+                    "text": "Ahora imagina que estás iluminando el limón con una luz y puedes ver la textura cerosa y grumosa de la piel amarilla."
+                }
+            },
+            {
+                "type": "Media",
+                "properties": {
+                    "path": "/images/lemon3.jpg"
+                },
+                "border": true
+            }
+        ]
+    }
+}

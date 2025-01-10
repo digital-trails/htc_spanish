@@ -1,0 +1,29 @@
+{
+    "title": "Atención en una tienda",
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Text",
+                "properties": {
+                    "text": "Los otros compradores probablemente piensen que usted es..."
+                }
+            },
+            {
+                "type": "Buttons",
+                "name": "Atención en una tienda_Situaciones Sociales_comp_question",
+                "correct_feedback": "Correcto!",
+                "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+                "correct_score": 0.5,
+                "incorrect_delay": 5000,
+                "properties": {
+                    "buttons": [
+                        "Considerado para disculparse.",
+                        "Torpe y descoordinado."
+                    ],
+                    "answer": "Considerado para disculparse."
+                }
+            }
+        ]
+    }
+}

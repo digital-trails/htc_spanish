@@ -1,0 +1,25 @@
+{
+    "title": "Cuestionario de tratamiento y salud mental",
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Text",
+                "properties": {
+                    "text": "¿Ha resultado útil la ayuda autoguiada? \n\n1 = Nada útil\n4 = Algo útil\n7=Extremadamente útil"
+                }
+            },
+            {
+                "type": "Slider",
+                "name": "self-guided_helpful",
+                "properties": {
+                    "minimum": 1,
+                    "maximum": 7,
+                    "other_choices": [
+                        "^Prefiero no responder"
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "title": "Demografía",
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Text",
+                "properties": {
+                    "text": "¿Cuál es su estado civil?"
+                }
+            },
+            {
+                "type": "Buttons",
+                "name": "relationship",
+                "properties": {
+                    "buttons": [
+                        "Soltero",
+                        "Soltero, pero saliendo casualmente",
+                        "Soltero, pero actualmente comprometido para casarse",
+                        "Soltero, pero actualmente vive con alguien en una relación similar a un matrimonio",
+                        "Casado",
+                        "En unión doméstica o civil",
+                        "Apartado",
+                        "Divorciado",
+                        "Viuda/viudo",
+                        "Otro",
+                        "Prefiero no responder"
+                    ],
+                    "selectable": true
+                }
+            }
+        ]
+    }
+}

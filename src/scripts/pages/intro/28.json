@@ -1,0 +1,25 @@
+{
+    "title": "Medidas de sesgo de interpretación",
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Text",
+                "properties": {
+                    "text": "¿Pensaste en la seguridad del ascensor?"
+                }
+            },
+            {
+                "type": "Buttons",
+                "name": "IBM_elevator",
+                "properties": {
+                    "buttons": [
+                        "Sí",
+                        "No"
+                    ],
+                    "selectable": true
+                }
+            }
+        ]
+    }
+}

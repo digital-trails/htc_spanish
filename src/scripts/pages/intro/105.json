@@ -1,0 +1,14 @@
+{
+    "title": "Imágenes ansiosas principales",
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Text",
+                "properties": {
+                    "text": "Juega esta situación en tu cabeza durante los próximos 20 segundos. \n\nLa pantalla cambiará en 20 segundos."
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "title": "Medidas de sesgo de interpretación",
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Text",
+                "properties": {
+                    "text": "EL ALMUERZO: Tu amigo te mira...\n\nY tú frunces el ceno porque olvidaste llevar agua al almuerzo."
+                }
+            },
+            {
+                "type": "Buttons",
+                "name": "IBM_lunch_interpretation_2",
+                "properties": {
+                    "buttons": [
+                        "Muy diferente",
+                        "Diferente",
+                        "Similar",
+                        "Muy similar",
+                        "Prefiero no responder"
+                    ],
+                    "selectable": true
+                }
+            }
+        ]
+    }
+}

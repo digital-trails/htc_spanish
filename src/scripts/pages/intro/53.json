@@ -1,0 +1,28 @@
+{
+    "title": "Medidas de sesgo de interpretación",
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Text",
+                "properties": {
+                    "text": "LA RECEPCIÓN DE BODAS: Al entrar en la habitación...\n\nTe das cuenta de que alguien que no te agrada acaba de entrar a la recepción."
+                }
+            },
+            {
+                "type": "Buttons",
+                "name": "IBM_wedding_interpretation_4",
+                "properties": {
+                    "buttons": [
+                        "Muy diferente",
+                        "Diferente",
+                        "Similar",
+                        "Muy similar",
+                        "Prefiero no responder"
+                    ],
+                    "selectable": true
+                }
+            }
+        ]
+    }
+}
