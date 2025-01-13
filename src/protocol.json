@@ -48,6 +48,11 @@
 				"action": "flow://scripts/flows/rationale.json"
 			},
 			{
+				"text": "<INTRO>",
+				"icon": "/assets/menu_mindtrails.png",
+				"action": "flow://scripts/flows/intro.json"
+			},
+			{
 				"text": "Instrucciones",
 				"icon": "/assets/menu_instructions.png",
 				"action": "flow://scripts/flows/instructions.json"

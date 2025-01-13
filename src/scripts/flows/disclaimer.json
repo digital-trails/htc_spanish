@@ -1,0 +1,6 @@
+{
+    "name": "Disclaimer",
+    "pages": [
+		  { "name": "page://scripts/pages/disclaimer/1.json" }
+    ]
+}
