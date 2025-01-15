@@ -1,21 +1,26 @@
 {
+    "name": "Ejercicio de limón",
     "title": "Ejercicio de limón",
-    "blocks": {
-        "type": "VerticalLayout",
-        "elements": [
-            {
-                "type": "Text",
-                "properties": {
-                    "text": "Bien... ¡comencemos! Imagina que sostienes el limón en tu mano derecha y puedes sentir su forma y su peso."
-                }
-            },
-            {
-                "type": "Media",
-                "properties": {
-                    "path": "/images/lemon2.jpg"
+    "timeout": 2,
+    "show_buttons": "AfterTimeout",
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "Bien... ¡comencemos! Imagina que sostienes el limón en tu mano derecha y puedes sentir su forma y su peso."
+                    }
                 },
-                "border": true
-            }
-        ]
-    }
+                {
+                    "type": "Media",
+                    "properties": {
+                        "path": "/images/lemon2.jpg"
+                    },
+                    "border": true
+                }
+            ]
+        }
+    ]
 }

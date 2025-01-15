@@ -1,28 +1,31 @@
 {
-    "title": "Medidas de sesgo de interpretación",
-    "blocks": {
-        "type": "VerticalLayout",
-        "elements": [
-            {
-                "type": "Text",
-                "properties": {
-                    "text": "EL ALMUERZO: Tu amiga te mira...\n\nPorque piensa que eres un vago."
+    "name": "Medidas de sesgo de interpretación",
+    "title": "El almuerzo",
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "EL ALMUERZO: Tu amiga te mira...\n\nPorque piensa que eres un vago."
+                    }
+                },
+                {
+                    "type": "Buttons",
+                    "name": "IBM_lunch_interpretation_1",
+                    "properties": {
+                        "buttons": [
+                            "Muy diferente",
+                            "Diferente",
+                            "Similar",
+                            "Muy similar",
+                            "Prefiero no responder"
+                        ],
+                        "selectable": true
+                    }
                 }
-            },
-            {
-                "type": "Buttons",
-                "name": "IBM_lunch_interpretation_1",
-                "properties": {
-                    "buttons": [
-                        "Muy diferente",
-                        "Diferente",
-                        "Similar",
-                        "Muy similar",
-                        "Prefiero no responder"
-                    ],
-                    "selectable": true
-                }
-            }
-        ]
-    }
+            ]
+        }
+    ]
 }

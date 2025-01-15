@@ -1,28 +1,31 @@
 {
-    "title": "Medidas de sesgo de interpretación",
-    "blocks": {
-        "type": "VerticalLayout",
-        "elements": [
-            {
-                "type": "Text",
-                "properties": {
-                    "text": "LA RECEPCIÓN DE BODA: Al entrar en la sala...\n\nLa gente del público se ríe con agradecimiento."
+    "name": "Medidas de sesgo de interpretación",
+    "title": "La recepción de la boda",
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "LA RECEPCIÓN DE BODA: Al entrar en la sala...\n\nLa gente del público se ríe con agradecimiento."
+                    }
+                },
+                {
+                    "type": "Buttons",
+                    "name": "IBM_wedding_interpretation_1",
+                    "properties": {
+                        "buttons": [
+                            "Muy diferente",
+                            "Diferente",
+                            "Similar",
+                            "Muy similar",
+                            "Prefiero no responder"
+                        ],
+                        "selectable": true
+                    }
                 }
-            },
-            {
-                "type": "Buttons",
-                "name": "IBM_wedding_interpretation_1",
-                "properties": {
-                    "buttons": [
-                        "Muy diferente",
-                        "Diferente",
-                        "Similar",
-                        "Muy similar",
-                        "Prefiero no responder"
-                    ],
-                    "selectable": true
-                }
-            }
-        ]
-    }
+            ]
+        }
+    ]
 }

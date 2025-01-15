@@ -1,26 +1,28 @@
 {
     "name": "Nightly Survey",
     "title": "Encuesta Nocturna",
-    "blocks": {
-        "type": "VerticalLayout",
-        "elements": [
-            {
-                "type": "Text",
-                "properties": {
-                    "text": "Pude manejar mis emociones hoy.\n\n1 = Nada efectivo\n\n7 = Muy efectivamente"
-                }
-            },
-            {
-                "type": "Slider",
-                "name": "EOD_emotions",
-                "properties": {
-                    "minimum": 1,
-                    "maximum": 7,
-                    "other_choices": [
-                        "^Prefiero no responder"
-                    ]
-                }
-            }
-        ]
-    }
+    "blocks": [
+		{
+			"type": "VerticalLayout",
+			"elements": [
+				{
+					"type": "Text",
+					"properties": {
+						"text": "Pude manejar mis emociones hoy.\n\n1 = Nada efectivo\n\n7 = Muy efectivamente"
+					}
+				},
+				{
+					"type": "Slider",
+					"name": "EOD_emotions",
+					"properties": {
+						"minimum": 1,
+						"maximum": 7,
+						"other_choices": [
+							"^Prefiero no responder"
+						]
+					}
+				}
+			]
+		}
+	]
 }

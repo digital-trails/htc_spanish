@@ -1,22 +1,25 @@
 {
+    "name": "Una pastel de cumpleaños2",
     "title": "Una pastel de cumpleaños",
-    "blocks": {
-        "type": "VerticalLayout",
-        "elements": [
-            {
-                "type": "Label",
-                "properties": {
-                    "text": "Una pastel de cumpleaños",
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Label",
+                    "properties": {
+                        "text": "Una pastel de cumpleaños",
+                        "border": true
+                    }
+                },
+                {
+                    "type": "Media",
+                    "properties": {
+                        "path": "/images/Una_pastel_de_cumpleaños.jpg"
+                    },
                     "border": true
                 }
-            },
-            {
-                "type": "Media",
-                "properties": {
-                    "path": "/images/Una_pastel_de_cumpleaños.jpg"
-                },
-                "border": true
-            }
-        ]
-    }
+            ]
+        }
+    ]
 }

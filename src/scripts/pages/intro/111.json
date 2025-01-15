@@ -1,22 +1,25 @@
 {
+    "name": "Contribuyendo a una discusión0",
     "title": "Contribuyendo a una discusión",
-    "blocks": {
-        "type": "VerticalLayout",
-        "elements": [
-            {
-                "type": "Label",
-                "properties": {
-                    "text": "Contribuyendo a una discusión",
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Label",
+                    "properties": {
+                        "text": "Contribuyendo a una discusión",
+                        "border": true
+                    }
+                },
+                {
+                    "type": "Media",
+                    "properties": {
+                        "path": "/images/Contribuyendo_a_una_discusión.jpg"
+                    },
                     "border": true
                 }
-            },
-            {
-                "type": "Media",
-                "properties": {
-                    "path": "/images/Contribuyendo_a_una_discusión.jpg"
-                },
-                "border": true
-            }
-        ]
-    }
+            ]
+        }
+    ]
 }

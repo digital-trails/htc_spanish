@@ -1,28 +1,31 @@
 {
-    "title": "Medidas de sesgo de interpretación",
-    "blocks": {
-        "type": "VerticalLayout",
-        "elements": [
-            {
-                "type": "Text",
-                "properties": {
-                    "text": "Estás en el centro comercial con tu amigo. Mientras compras, ella te cuenta cómo varios de sus amigos han contraído recientemente una extrana enfermedad. Piensas en tu salud reciente y te preguntas si obtendrás..."
+    "name": "Medidas de sesgo de interpretación",
+    "title": "El viaje de compras",
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "Estás en el centro comercial con tu amigo. Mientras compras, ella te cuenta cómo varios de sus amigos han contraído recientemente una extrana enfermedad. Piensas en tu salud reciente y te preguntas si obtendrás..."
+                    }
+                },
+                {
+                    "type": "WordPuzzle",
+                    "name": "IBM_shopping_puzzle",
+                    "correct_feedback": "Correcto!",
+                    "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+                    "correct_score": 0.5,
+                    "incorrect_delay": 5000,
+                    "cause_navigation": true,
+                    "properties": {
+                        "words": [
+                            "enfermo"
+                        ]
+                    }
                 }
-            },
-            {
-                "type": "WordPuzzle",
-                "name": "IBM_shopping_puzzle",
-                "correct_feedback": "Correcto!",
-                "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-                "correct_score": 0.5,
-                "incorrect_delay": 5000,
-                "cause_navigation": true,
-                "properties": {
-                    "words": [
-                        "enfermo"
-                    ]
-                }
-            }
-        ]
-    }
+            ]
+        }
+    ]
 }

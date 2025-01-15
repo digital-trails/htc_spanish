@@ -1,28 +1,31 @@
 {
-    "title": "Medidas de sesgo de interpretación",
-    "blocks": {
-        "type": "VerticalLayout",
-        "elements": [
-            {
-                "type": "Text",
-                "properties": {
-                    "text": "EL VIAJE DE COMPRAS: Piensas en tu salud reciente...\n\nY te aburres de ir de compras."
+    "name": "Medidas de sesgo de interpretación",
+    "title": "El viaje de compras",
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "EL VIAJE DE COMPRAS: Piensas en tu salud reciente...\n\nY te aburres de ir de compras."
+                    }
+                },
+                {
+                    "type": "Buttons",
+                    "name": "IBM_shopping_interpretation_4",
+                    "properties": {
+                        "buttons": [
+                            "Muy diferente",
+                            "Diferente",
+                            "Similar",
+                            "Muy similar",
+                            "Prefiero no responder"
+                        ],
+                        "selectable": true
+                    }
                 }
-            },
-            {
-                "type": "Buttons",
-                "name": "IBM_shopping_interpretation_4",
-                "properties": {
-                    "buttons": [
-                        "Muy diferente",
-                        "Diferente",
-                        "Similar",
-                        "Muy similar",
-                        "Prefiero no responder"
-                    ],
-                    "selectable": true
-                }
-            }
-        ]
-    }
+            ]
+        }
+    ]
 }

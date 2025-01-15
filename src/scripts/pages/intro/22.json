@@ -1,27 +1,36 @@
 {
+    "name": "Cuestionario de tratamiento y salud mental",
     "title": "Cuestionario de tratamiento y salud mental",
-    "blocks": {
-        "type": "VerticalLayout",
-        "elements": [
-            {
-                "type": "Text",
-                "properties": {
-                    "text": "¿Tiene síntomas de ansiedad o depresión de moderados a graves?"
-                }
-            },
-            {
-                "type": "Buttons",
-                "name": "anxiety_or_depression",
-                "properties": {
-                    "buttons": [
-                        "Sí::Sí",
-                        "No::no",
-                        "Inseguro::Inseguro"
-                    ],
-                    "selectable": true
+    "conditions": [
+        {
+            "variable_name": "HelpReceived",
+            "value": "Ninguno"
+        }
+    ],
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "¿Tiene síntomas de ansiedad o depresión de moderados a graves?"
+                    }
                 },
-                "variable_name": "anxiety_or_depression"
-            }
-        ]
-    }
+                {
+                    "type": "Buttons",
+                    "name": "anxiety_or_depression",
+                    "properties": {
+                        "buttons": [
+                            "Sí::Sí",
+                            "No::no",
+                            "Inseguro::Inseguro"
+                        ],
+                        "selectable": true
+                    },
+                    "variable_name": "anxiety_or_depression"
+                }
+            ]
+        }
+    ]
 }

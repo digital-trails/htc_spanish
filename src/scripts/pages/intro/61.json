@@ -1,28 +1,31 @@
 {
-    "title": "Medidas de sesgo de interpretación",
-    "blocks": {
-        "type": "VerticalLayout",
-        "elements": [
-            {
-                "type": "Text",
-                "properties": {
-                    "text": "EL RUIDO FUERTE: Mientras bajas las escaleras...\n\nSientes frío y piensas que la casa necesita una mejor calefacción."
+    "name": "Medidas de sesgo de interpretación",
+    "title": "El ruido fuerte",
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "EL RUIDO FUERTE: Mientras bajas las escaleras...\n\nSientes frío y piensas que la casa necesita una mejor calefacción."
+                    }
+                },
+                {
+                    "type": "Buttons",
+                    "name": "IBM_loud_interpretation_4",
+                    "properties": {
+                        "buttons": [
+                            "Muy diferente",
+                            "Diferente",
+                            "Similar",
+                            "Muy similar",
+                            "Prefiero no responder"
+                        ],
+                        "selectable": true
+                    }
                 }
-            },
-            {
-                "type": "Buttons",
-                "name": "IBM_loud_interpretation_4",
-                "properties": {
-                    "buttons": [
-                        "Muy diferente",
-                        "Diferente",
-                        "Similar",
-                        "Muy similar",
-                        "Prefiero no responder"
-                    ],
-                    "selectable": true
-                }
-            }
-        ]
-    }
+            ]
+        }
+    ]
 }

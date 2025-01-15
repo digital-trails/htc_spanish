@@ -1,25 +1,28 @@
 {
-    "title": "Medidas de sesgo de interpretación",
-    "blocks": {
-        "type": "VerticalLayout",
-        "elements": [
-            {
-                "type": "Text",
-                "properties": {
-                    "text": "¿Te han despertado en mitad de la noche?"
+    "name": "Medidas de sesgo de interpretación",
+    "title": "El ruido fuerte",
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "¿Te han despertado en mitad de la noche?"
+                    }
+                },
+                {
+                    "type": "Buttons",
+                    "name": "IBM_noise",
+                    "properties": {
+                        "buttons": [
+                            "Sí",
+                            "No"
+                        ],
+                        "selectable": true
+                    }
                 }
-            },
-            {
-                "type": "Buttons",
-                "name": "IBM_noise",
-                "properties": {
-                    "buttons": [
-                        "Sí",
-                        "No"
-                    ],
-                    "selectable": true
-                }
-            }
-        ]
-    }
+            ]
+        }
+    ]
 }

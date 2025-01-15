@@ -1,25 +1,28 @@
 {
-    "title": "Medidas de sesgo de interpretación",
-    "blocks": {
-        "type": "VerticalLayout",
-        "elements": [
-            {
-                "type": "Text",
-                "properties": {
-                    "text": "¿Pensaste en la seguridad del ascensor?"
+    "name": "Medidas de sesgo de interpretación",
+    "title": "El ascensor",
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "¿Pensaste en la seguridad del ascensor?"
+                    }
+                },
+                {
+                    "type": "Buttons",
+                    "name": "IBM_elevator",
+                    "properties": {
+                        "buttons": [
+                            "Sí",
+                            "No"
+                        ],
+                        "selectable": true
+                    }
                 }
-            },
-            {
-                "type": "Buttons",
-                "name": "IBM_elevator",
-                "properties": {
-                    "buttons": [
-                        "Sí",
-                        "No"
-                    ],
-                    "selectable": true
-                }
-            }
-        ]
-    }
+            ]
+        }
+    ]
 }

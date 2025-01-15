@@ -1,14 +1,17 @@
 {
+    "name": "Gran trabajo",
     "title": "Gran trabajo",
-    "blocks": {
-        "type": "VerticalLayout",
-        "elements": [
-            {
-                "type": "Text",
-                "properties": {
-                    "text": "¿Aún tienes preguntas? ¡Póngase en contacto con el equipo en HoosThinkCalmly@gmail.com! Estaremos encantados de programar una llamada de Zoom para abordar cualquier pregunta o inquietud que pueda tener."
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "¿Aún tienes preguntas? ¡Póngase en contacto con el equipo en HoosThinkCalmly@gmail.com! Estaremos encantados de programar una llamada de Zoom para abordar cualquier pregunta o inquietud que pueda tener."
+                    }
                 }
-            }
-        ]
-    }
+            ]
+        }
+    ]
 }

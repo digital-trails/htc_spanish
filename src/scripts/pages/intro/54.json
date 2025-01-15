@@ -1,28 +1,31 @@
 {
-    "title": "Medidas de sesgo de interpretación",
-    "blocks": {
-        "type": "VerticalLayout",
-        "elements": [
-            {
-                "type": "Text",
-                "properties": {
-                    "text": "EL TRABAJO: Piensas en no tener ingresos durante algunas semanas...\n\nY sabes que puedes confiar en tus ahorros."
+    "name": "Medidas de sesgo de interpretación",
+    "title": "El trabajo",
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "EL TRABAJO: Piensas en no tener ingresos durante algunas semanas...\n\nY sabes que puedes confiar en tus ahorros."
+                    }
+                },
+                {
+                    "type": "Buttons",
+                    "name": "IBM_job_interpretation_1",
+                    "properties": {
+                        "buttons": [
+                            "Muy diferente",
+                            "Diferente",
+                            "Similar",
+                            "Muy similar",
+                            "Prefiero no responder"
+                        ],
+                        "selectable": true
+                    }
                 }
-            },
-            {
-                "type": "Buttons",
-                "name": "IBM_job_interpretation_1",
-                "properties": {
-                    "buttons": [
-                        "Muy diferente",
-                        "Diferente",
-                        "Similar",
-                        "Muy similar",
-                        "Prefiero no responder"
-                    ],
-                    "selectable": true
-                }
-            }
-        ]
-    }
+            ]
+        }
+    ]
 }

@@ -1,18 +1,20 @@
 import json
 from pathlib import Path
 
-#files = ['eod', 'instructions', 'disclaimer', 'what_is_anxiety']
-files = [ 
-    'resources', 
-    'resources_discrimination', 
-    'resources_family',
-    'resources_finances',
-    'resources_mental',
-    'resources_personal',
-    'resources_physical',
-    'resources_romantic',
-    'resources_social'
-]
+# files = ['eod', 'instructions', 'disclaimer', 'what_is_anxiety']
+# files = [ 
+#     'resources', 
+#     'resources_discrimination', 
+#     'resources_family',
+#     'resources_finances',
+#     'resources_mental',
+#     'resources_personal',
+#     'resources_physical',
+#     'resources_romantic',
+#     'resources_social'
+# ]
+
+files = ['intro']
 
 for file in files:
 
@@ -32,10 +34,10 @@ for file in files:
             props.pop('elements')
             page_obj = {
                 **props,
-                'blocks': {
+                'blocks': [ {
                     'type': 'VerticalLayout',
                     'elements':page['elements']
-                }
+                } ]
             }
 
             directory = Path(f"./src/scripts/pages/{file}")

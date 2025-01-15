@@ -1,33 +1,36 @@
 {
+    "name": "Demografía",
     "title": "Demografía",
-    "blocks": {
-        "type": "VerticalLayout",
-        "elements": [
-            {
-                "type": "Text",
-                "properties": {
-                    "text": "¿Cuál es tu situacion laboral?"
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "¿Cuál es tu situacion laboral?"
+                    }
+                },
+                {
+                    "type": "Buttons",
+                    "name": "employment",
+                    "properties": {
+                        "buttons": [
+                            "Trabajando a tiempo completo",
+                            "Trabajar a tiempo parcial",
+                            "Desempleado o despedido",
+                            "Buscando trabajo",
+                            "Ama de casa/cuidando la casa o criando hijos a tiempo completo",
+                            "Jubilado",
+                            "Alumno",
+                            "Otro",
+                            "Desconocido",
+                            "Prefiero no responder"
+                        ],
+                        "selectable": true
+                    }
                 }
-            },
-            {
-                "type": "Buttons",
-                "name": "employment",
-                "properties": {
-                    "buttons": [
-                        "Trabajando a tiempo completo",
-                        "Trabajar a tiempo parcial",
-                        "Desempleado o despedido",
-                        "Buscando trabajo",
-                        "Ama de casa/cuidando la casa o criando hijos a tiempo completo",
-                        "Jubilado",
-                        "Alumno",
-                        "Otro",
-                        "Desconocido",
-                        "Prefiero no responder"
-                    ],
-                    "selectable": true
-                }
-            }
-        ]
-    }
+            ]
+        }
+    ]
 }
