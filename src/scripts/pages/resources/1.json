@@ -9,7 +9,7 @@
 					"type": "Button",
 					"properties":{
 						"text": "Académicos/Trabajo/Desarrollo Profesional",
-						"action": "resources_personal"
+						"action": "resources_academic"
 					}
 				},
 				{
