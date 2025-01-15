@@ -8,8 +8,8 @@
 				{
 					"type": "Button",
 					"properties":{
-						"text": "Académicos/Trabajo/Desarrollo Profesional",
-						"action": "resources_academic"
+						"text": "Discriminación/Microagresiones",
+						"action": "resources_discrimination"
 					}
 				},
 				{
