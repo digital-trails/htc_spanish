@@ -1,0 +1,8 @@
+{
+    "name": "instructions",
+    "pages": [
+      { 
+        "name": "page://scripts/pages/instructions/1.json"
+      }
+    ]
+  }

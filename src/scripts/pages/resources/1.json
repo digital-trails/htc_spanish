@@ -1,0 +1,23 @@
+{
+    "name": "On-demand resources",
+    "title": "Recursos",
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Button",
+				"properties":{
+					"text": "Académicos/Trabajo/Desarrollo Profesional",
+					"action": "resources_personal"
+                }
+			},
+			{
+                "type": "Button",
+				"properties":{
+					"text": "Vida Familiar y Doméstica",
+					"action": "resources_family"
+                }
+			}
+        ]
+    }
+}

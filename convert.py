@@ -1,13 +1,22 @@
 import json
 from pathlib import Path
 
-files = ['eod', 'instructions', 'disclaimer', 'what_is_anxiety']
-
-files = files[1:]
+#files = ['eod', 'instructions', 'disclaimer', 'what_is_anxiety']
+files = [ 
+    'resources', 
+    'resources_discrimination', 
+    'resources_family',
+    'resources_finances',
+    'resources_mental',
+    'resources_personal',
+    'resources_physical',
+    'resources_romantic',
+    'resources_social'
+]
 
 for file in files:
 
-    with open(f'./src/scripts/{file}.json', encoding='utf-8') as f:
+    with open(f'./src/scripts/old/{file}.json', encoding='utf-8') as f:
         obj = json.load(f)
 
     page_index = 1

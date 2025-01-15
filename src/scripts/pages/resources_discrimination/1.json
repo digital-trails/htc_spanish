@@ -1,0 +1,42 @@
+{
+    "name": "Which subdomain?",
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Text",
+                "properties": {
+                    "text": "Haga clic en el tema específico para ver los recursos asociados."
+                }
+            },
+			{
+                "type": "Button",
+				"properties":{
+					"text": "Apoyo Comunitario",
+					"action": "Apoyo_Comunitario"
+                }
+			},
+			{
+                "type": "Button",
+				"properties":{
+					"text": "Alianza",
+					"action": "Alianza"
+                }
+			},
+			{
+                "type": "Button",
+				"properties":{
+					"text": "Apoyo Legal",
+					"action": "Apoyo_Legal"
+                }
+			},
+			{
+                "type": "Button",
+				"properties":{
+					"text": "Otro",
+					"action": "Otro"
+                }
+			}
+        ]
+    }
+}

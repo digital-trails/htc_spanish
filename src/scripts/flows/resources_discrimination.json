@@ -1,0 +1,10 @@
+{
+   "name":"Discrimination",
+   "pages": [
+		  {"name":"page://scripts/pages/resources_discrimination/1.json" },
+		  {"name":"page://scripts/pages/resources_discrimination/2.json", "conditions": [ {"variable": "action", "comparator":"=" , "value": "Apoyo_Comunitario" } ] },
+		  {"name":"page://scripts/pages/resources_discrimination/3.json", "conditions": [ {"variable": "action", "comparator":"=" , "value": "Alianza" } ] },
+		  {"name":"page://scripts/pages/resources_discrimination/4.json", "conditions": [ {"variable": "action", "comparator":"=" , "value": "Apoyo_Legal" } ] },
+		  {"name":"page://scripts/pages/resources_discrimination/5.json", "conditions": [ {"variable": "action", "comparator":"=" , "value": "Otro" } ] }
+    ]
+}

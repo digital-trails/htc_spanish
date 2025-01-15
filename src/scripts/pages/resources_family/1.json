@@ -1,0 +1,35 @@
+{
+    "name": "Which subdomain?",
+    "blocks": {
+        "type": "VerticalLayout",
+        "elements": [
+            {
+                "type": "Text",
+                "properties": {
+                    "text": "Haga clic en el tema específico para ver los recursos asociados."
+                }
+            },
+			{
+                "type": "Button",
+				"properties":{
+					"text": "Familias",
+					"action": "Familias"
+                }
+			},
+			{
+                "type": "Button",
+				"properties":{
+					"text": "Seguridad",
+					"action": "Seguridad"
+                }
+			},
+			{
+                "type": "Button",
+				"properties":{
+					"text": "Otro",
+					"action": "Otro"
+                }
+			}
+        ]
+    }
+}
