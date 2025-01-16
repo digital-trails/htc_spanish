@@ -1,8 +1,6 @@
 {
    "name":"Resources",
    "pages": [
-		  {"name":"page://scripts/pages/resources/1.json" 																								   },
-		  {"name":"flow://scripts/flows/resources_discrimination.json", "conditions": [ {"variable": "action", "comparator":"=" , "value": "resources_discrimination" } ]  },
-		  {"name":"flow://scripts/flows/resources_family.json"        , "conditions": [ {"variable": "action", "comparator":"=" , "value": "resources_family" } ] },
+  	{"name":"page://scripts/pages/resources/1.json"}
     ]
 }
