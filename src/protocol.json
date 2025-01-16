@@ -89,9 +89,7 @@
 			}
 		]
 	},
-	"sessions": [
-		"flow://scripts/flows/sessions.json"
-	],
+	"sessions": "flow://scripts/flows/sessions.json",
 	"triggers": [
 		{
 			"type": "timing",
