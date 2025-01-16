@@ -4,19 +4,20 @@
     "blocks": [
 		{
 			"type": "VerticalLayout",
-			"elements": [
+			"elements":[
 				{
-					"type": "Button",
-					"properties":{
-						"text": "Discriminación/Microagresiones",
-						"action": "resources_discrimination"
-					}
-				},
-				{
-					"type": "Button",
-					"properties":{
-						"text": "Vida Familiar y Doméstica",
-						"action": "resources_family"
+					"type": "ScriptButtons",
+					"properties": {
+						"scripts": [
+						       {
+								"text": "Vida Familiar y Doméstica",
+								"action": "flow://scripts/flows/resources_family.json"
+							},
+							{
+								"text": "Discriminación/Microagresiones",
+								"action": "flow://scripts/flows/resources_discrimination.json"
+							}
+						]
 					}
 				}
 			]
