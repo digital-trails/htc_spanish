@@ -1,6 +1,6 @@
 {
     "name": "Otro",
-    "title": "Otro"
+    "title": "Otro",
     "blocks": [
 		{
 			"type": "VerticalLayout",
