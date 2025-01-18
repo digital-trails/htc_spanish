@@ -1,0 +1,33 @@
+{
+    "name": "Reasons For Ending",
+    "title": "Razones Para Terminar",
+    "cancel_button_text": "Salir",
+    "hide_progress": true,
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "¿Cuánto te gustó el aspecto de Hoos Think Calmly?"
+                    }
+                },
+                {
+                    "type": "Buttons",
+                    "name": "UI",
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

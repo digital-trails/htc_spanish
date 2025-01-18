@@ -1,0 +1,33 @@
+{
+    "name": "Reasons For Ending",
+    "title": "Razones Para Terminar",
+    "cancel_button_text": "Salir",
+    "hide_progress": true,
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "¿Qué tan útiles te parecieron las estrategias y consejos proporcionados por la aplicación?"
+                    }
+                },
+                {
+                    "type": "Buttons",
+                    "name": "tips_use",
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Reasons For Ending",
+    "title": "Razones Para Terminar",
+    "cancel_button_text": "Salir",
+    "hide_progress": true,
+    "conditions": [
+        {
+            "variable_name": "RFE_anxiety_depression",
+            "value": "Inseguro"
+        }
+    ],
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "Los problemas técnicos con la aplicación móvil (por ejemplo, la aplicación falla o se congela) dificultaron la tarea.\n usar."
+                    }
+                },
+                {
+                    "type": "Buttons",
+                    "name": "tech_problems",
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Reasons For Ending",
+    "title": "Razones Para Terminar",
+    "cancel_button_text": "Salir",
+    "hide_progress": true,
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "¿Qué tan creíbles te parecieron los finales de las historias en términos de los resultados que suceden en tu vida?"
+                    }
+                },
+                {
+                    "type": "Buttons",
+                    "name": "believable_scenarios",
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

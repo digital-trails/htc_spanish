@@ -1,0 +1,33 @@
+{
+    "name": "Reasons For Ending",
+    "title": "Razones Para Terminar",
+    "cancel_button_text": "Salir",
+    "hide_progress": true,
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "Las sesiones de formación me parecieron:"
+                    }
+                },
+                {
+                    "type": "Buttons",
+                    "name": "find_sessions",
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

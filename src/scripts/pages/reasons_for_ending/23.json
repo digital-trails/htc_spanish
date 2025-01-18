@@ -1,0 +1,25 @@
+{
+    "name": "Reasons For Ending",
+    "title": "Razones Para Terminar",
+    "cancel_button_text": "Salir",
+    "hide_progress": true,
+    "conditions": [
+        {
+            "variable_name": "RFE_anxiety_depression",
+            "value": "Inseguro"
+        }
+    ],
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "Algunas personas tienen problemas al intentar utilizar una aplicación móvil. Lea las siguientes declaraciones y díganos qué problema tuvo al intentar utilizar la aplicación."
+                    }
+                }
+            ]
+        }
+    ]
+}

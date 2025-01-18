@@ -1,0 +1,39 @@
+{
+    "name": "Reasons For Ending",
+    "title": "Razones Para Terminar",
+    "cancel_button_text": "Salir",
+    "hide_progress": true,
+    "conditions": [
+        {
+            "variable_name": "RFE_anxiety_depression",
+            "value": "Inseguro"
+        }
+    ],
+    "blocks": [
+        {
+            "type": "VerticalLayout",
+            "elements": [
+                {
+                    "type": "Text",
+                    "properties": {
+                        "text": "La aplicación no me pareció muy útil."
+                    }
+                },
+                {
+                    "type": "Buttons",
+                    "name": "not_useful",
+                    "properties": {
+                        "buttons": [
+                            "De nada",
+                            "Levemente",
+                            "Un poco",
+                            "Principalmente",
+                            "Muy",
+                            "^Prefiero no responder"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

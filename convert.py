@@ -14,7 +14,7 @@ from pathlib import Path
 #     'resources_social'
 # ]
 
-files = ['intro']
+files = ['reasons_for_ending']
 
 for file in files:
 
