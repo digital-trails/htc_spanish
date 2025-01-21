@@ -1,17 +1,10 @@
 {
     "name": "Cuestionario de tratamiento y salud mental",
     "title": "Cuestionario de tratamiento y salud mental",
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "Nos gustaría hacerle algunas preguntas sobre su salud mental y su historial de tratamiento. Las respuestas a estas preguntas personales se mantienen confidenciales, pero nos ayudan a mejorar Hoos Think Calmly al descubrir para quién funciona bien."
-                    }
-                }
-            ]
+            "type": "Text",
+            "text": "Nos gustaría hacerle algunas preguntas sobre su salud mental y su historial de tratamiento. Las respuestas a estas preguntas personales se mantienen confidenciales, pero nos ayudan a mejorar Hoos Think Calmly al descubrir para quién funciona bien."
         }
     ]
 }

@@ -2,32 +2,23 @@
     "name": "Question",
     "title": "Una pastel de cumpleaños",
     "show_buttons": "WhenCorrect",
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "Si te comes el pastel, probablemente..."
-                    }
-                },
-                {
-                    "type": "Buttons",
-                    "name": "Una pastel de cumpleaños_Salud Física_comp_question",
-                    "correct_feedback": "Correcto!",
-                    "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-                    "correct_score": 0.5,
-                    "incorrect_delay": 5000,
-                    "properties": {
-                        "buttons": [
-                            "No enfermarme.",
-                            "Enfermarse."
-                        ],
-                        "answer": "Enfermarse."
-                    }
-                }
-            ]
+            "type": "Text",
+            "text": "Si te comes el pastel, probablemente..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Una pastel de cumpleaños_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "correct_score": 0.5,
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No enfermarme.",
+                "Enfermarse."
+            ],
+            "answer": "Enfermarse."
         }
     ]
 }

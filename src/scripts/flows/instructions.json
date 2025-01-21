@@ -1,8 +1,8 @@
 {
     "name": "instructions",
-    "pages": [
+    "steps": [
       { 
-        "name": "page://scripts/pages/instructions/1.json"
+        "path": "page://scripts/pages/instructions/1.json"
       }
     ]
   }

@@ -1,30 +1,21 @@
 {
     "name": "Demografía",
     "title": "Demografía",
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "Cuál es tu etnia?"
-                    }
-                },
-                {
-                    "type": "Buttons",
-                    "name": "ethnicity",
-                    "properties": {
-                        "buttons": [
-                            "Hispano o latino",
-                            "No Hispano o Latino",
-                            "Desconocido",
-                            "^Prefiero no responder"
-                        ],
-                        "selectable": true
-                    }
-                }
-            ]
+            "type": "Text",
+            "text": "Cuál es tu etnia?"
+        },
+        {
+            "type": "Buttons",
+            "name": "ethnicity",
+            "buttons": [
+                "Hispano o latino",
+                "No Hispano o Latino",
+                "Desconocido",
+                "^Prefiero no responder"
+            ],
+            "selectable": true
         }
     ]
 }

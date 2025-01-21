@@ -1,8 +1,8 @@
 {
     "name": "rationale",
-    "pages": [
+    "steps": [
       { 
-        "name": "page://scripts/pages/rationale/1.json"
+        "path": "page://scripts/pages/rationale/1.json"
       } 
     ]
   }

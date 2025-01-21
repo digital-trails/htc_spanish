@@ -1,45 +1,30 @@
 {
 	"title": "Discriminación/Microagresiones",
     "name": "Which subdomain?",
-    "blocks": [
+	"elements": [
 		{
-			"type": "VerticalLayout",
-			"elements": [
-				{
-					"type": "Text",
-					"properties": {
-						"text": "Haga clic en el tema específico para ver los recursos asociados."
-					}
-				},
-				{
-					"type": "Button",
-					"properties":{
-						"text": "Apoyo Comunitario",
-						"action": "Apoyo_Comunitario"
-					}
-				},
-				{
-					"type": "Button",
-					"properties":{
-						"text": "Alianza",
-						"action": "Alianza"
-					}
-				},
-				{
-					"type": "Button",
-					"properties":{
-						"text": "Apoyo Legal",
-						"action": "Apoyo_Legal"
-					}
-				},
-				{
-					"type": "Button",
-					"properties":{
-						"text": "Otro",
-						"action": "Otro"
-					}
-				}
-			]
+			"type": "Text",
+			"text": "Haga clic en el tema específico para ver los recursos asociados."
+		},
+		{
+			"type": "Button",
+			"text": "Apoyo Comunitario",
+			"action": "Apoyo_Comunitario"
+		},
+		{
+			"type": "Button",
+			"text": "Alianza",
+			"action": "Alianza"
+		},
+		{
+			"type": "Button",
+			"text": "Apoyo Legal",
+			"action": "Apoyo_Legal"
+		},
+		{
+			"type": "Button",
+			"text": "Otro",
+			"action": "Otro"
 		}
 	]
 }

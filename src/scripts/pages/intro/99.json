@@ -3,24 +3,15 @@
     "title": "Ejercicio de limón",
     "timeout": 2,
     "show_buttons": "AfterTimeout",
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "Ahora imagina que cortas el limón por la mitad y levantas la mitad para verlo más de cerca. Puedes ver la pulpa jugosa en forma de gajos que parecen una rueda de carreta."
-                    }
-                },
-                {
-                    "type": "Media",
-                    "properties": {
-                        "path": "/images/lemon5.jpg"
-                    },
-                    "border": true
-                }
-            ]
+            "type": "Text",
+            "text": "Ahora imagina que cortas el limón por la mitad y levantas la mitad para verlo más de cerca. Puedes ver la pulpa jugosa en forma de gajos que parecen una rueda de carreta."
+        },
+        {
+            "type": "Media",
+            "border": true,
+            "path": "/images/lemon5.jpg"
         }
     ]
 }

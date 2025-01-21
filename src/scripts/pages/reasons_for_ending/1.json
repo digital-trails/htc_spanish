@@ -3,17 +3,10 @@
     "title": "Razones Para Terminar",
     "cancel_button_text": "Salir",
     "hide_progress": true,
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "Estamos interesados ​​en mejorar Hoos Think Calmly y nos gustaría saber por qué decidió suspender el programa. ¡Agradecemos sus comentarios!"
-                    }
-                }
-            ]
+            "type": "Text",
+            "text": "Estamos interesados ​​en mejorar Hoos Think Calmly y nos gustaría saber por qué decidió suspender el programa. ¡Agradecemos sus comentarios!"
         }
     ]
 }

@@ -1,30 +1,21 @@
 {
     "name": "Escala de tristeza",
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "Durante las últimas 2 semanas, ¿con qué frecuencia le han molestado alguno de los siguientes problemas?\n\nPoco interés o placer en hacer cosas."
-                    }
-                },
-                {
-                    "type": "Buttons",
-                    "name": "OASIS_little_interest",
-                    "properties": {
-                        "buttons": [
-                            "De nada",
-                            "Varios dias",
-                            "Más de la mitad de los días",
-                            "Casi todos los dias",
-                            "^Prefiero no responder"
-                        ],
-                        "selectable": true
-                    }
-                }
-            ]
+            "type": "Text",
+            "text": "Durante las últimas 2 semanas, ¿con qué frecuencia le han molestado alguno de los siguientes problemas?\n\nPoco interés o placer en hacer cosas."
+        },
+        {
+            "type": "Buttons",
+            "name": "OASIS_little_interest",
+            "buttons": [
+                "De nada",
+                "Varios dias",
+                "Más de la mitad de los días",
+                "Casi todos los dias",
+                "^Prefiero no responder"
+            ],
+            "selectable": true
         }
     ]
 }

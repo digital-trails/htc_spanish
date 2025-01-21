@@ -1,24 +1,17 @@
 {
     "name": "On-demand resources",
     "title": "Recursos",
-    "blocks": [
+	"elements":[
 		{
-			"type": "VerticalLayout",
-			"elements":[
+			"type": "ScriptButtons",
+			"scripts": [
 				{
-					"type": "ScriptButtons",
-					"properties": {
-						"scripts": [
-						       {
-								"text": "Vida Familiar y Doméstica",
-								"action": "flow://scripts/flows/resources_family.json"
-							},
-							{
-								"text": "Discriminación/Microagresiones",
-								"action": "flow://scripts/flows/resources_discrimination.json"
-							}
-						]
-					}
+					"text": "Vida Familiar y Doméstica",
+					"action": "flow://scripts/flows/resources_family.json"
+				},
+				{
+					"text": "Discriminación/Microagresiones",
+					"action": "flow://scripts/flows/resources_discrimination.json"
 				}
 			]
 		}

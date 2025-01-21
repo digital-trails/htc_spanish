@@ -3,27 +3,18 @@
     "title": "Imágenes ansiosas principales",
     "timeout": 20,
     "show_buttons": "Never",
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "¿Qué tan ansioso se sintió (en el nivel más alto de ansiedad) al completar la tarea de visualización? Presione en la barra para ver el control deslizante. \n\n0 = Absolutamente ninguna ansiedad. \n\n10 = Totalmente ansioso."
-                    }
-                },
-                {
-                    "type": "Slider",
-                    "name": "imagery_anxiety",
-                    "properties": {
-                        "minimum": 0,
-                        "maximum": 10,
-                        "other_choices": [
-                            "Prefiero no responder"
-                        ]
-                    }
-                }
+            "type": "Text",
+            "text": "¿Qué tan ansioso se sintió (en el nivel más alto de ansiedad) al completar la tarea de visualización? Presione en la barra para ver el control deslizante. \n\n0 = Absolutamente ninguna ansiedad. \n\n10 = Totalmente ansioso."
+        },
+        {
+            "type": "Slider",
+            "name": "imagery_anxiety",
+            "minimum": 0,
+            "maximum": 10,
+            "other_choices": [
+                "Prefiero no responder"
             ]
         }
     ]

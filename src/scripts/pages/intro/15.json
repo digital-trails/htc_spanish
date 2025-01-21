@@ -7,27 +7,18 @@
             "value": "Prescripción"
         }
     ],
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "¿Han sido útiles los prescripciónes recetados? \n\n1 = Nada útil\n4 = Algo útil\n7=Extremadamente útil"
-                    }
-                },
-                {
-                    "type": "Slider",
-                    "name": "prescriptions_helpful",
-                    "properties": {
-                        "minimum": 1,
-                        "maximum": 7,
-                        "other_choices": [
-                            "^Prefiero no responder"
-                        ]
-                    }
-                }
+            "type": "Text",
+            "text": "¿Han sido útiles los prescripciónes recetados? \n\n1 = Nada útil\n4 = Algo útil\n7=Extremadamente útil"
+        },
+        {
+            "type": "Slider",
+            "name": "prescriptions_helpful",
+            "minimum": 1,
+            "maximum": 7,
+            "other_choices": [
+                "^Prefiero no responder"
             ]
         }
     ]

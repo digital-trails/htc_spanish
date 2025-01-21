@@ -1,32 +1,23 @@
 {
     "name": "Demografía",
     "title": "Demografía",
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "¿Cuál es tu identidad de género?"
-                    }
-                },
-                {
-                    "type": "Buttons",
-                    "name": "gender",
-                    "properties": {
-                        "buttons": [
-                            "Mujer",
-                            "Hombre",
-                            "Mujer Transgénero",
-                            "Hombre transgénero",
-                            "!Otra identidad",
-                            "^Prefiero no responder"
-                        ],
-                        "selectable": true
-                    }
-                }
-            ]
+            "type": "Text",
+            "text": "¿Cuál es tu identidad de género?"
+        },
+        {
+            "type": "Buttons",
+            "name": "gender",
+            "buttons": [
+                "Mujer",
+                "Hombre",
+                "Mujer Transgénero",
+                "Hombre transgénero",
+                "!Otra identidad",
+                "^Prefiero no responder"
+            ],
+            "selectable": true
         }
     ]
 }

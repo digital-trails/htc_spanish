@@ -1,32 +1,23 @@
 {
     "name": "Escala de estrés",
     "title": "Escala de estrés",
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "En el último mes, ¿con qué frecuencia ha sentido que las cosas iban como quería?"
-                    }
-                },
-                {
-                    "type": "Buttons",
-                    "name": "PSS-4_your_way",
-                    "properties": {
-                        "buttons": [
-                            "Nunca",
-                            "Casi nunca",
-                            "A veces",
-                            "Bastante a menudo",
-                            "Muy a menudo",
-                            "^Prefiero no responder"
-                        ],
-                        "selectable": true
-                    }
-                }
-            ]
+            "type": "Text",
+            "text": "En el último mes, ¿con qué frecuencia ha sentido que las cosas iban como quería?"
+        },
+        {
+            "type": "Buttons",
+            "name": "PSS-4_your_way",
+            "buttons": [
+                "Nunca",
+                "Casi nunca",
+                "A veces",
+                "Bastante a menudo",
+                "Muy a menudo",
+                "^Prefiero no responder"
+            ],
+            "selectable": true
         }
     ]
 }

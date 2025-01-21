@@ -1,28 +1,19 @@
 {
     "name": "Medidas de sesgo de interpretación",
     "title": "El viaje de compras",
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "¿Estás comprando solo?"
-                    }
-                },
-                {
-                    "type": "Buttons",
-                    "name": "IBM_shopping",
-                    "properties": {
-                        "buttons": [
-                            "Sí",
-                            "No"
-                        ],
-                        "selectable": true
-                    }
-                }
-            ]
+            "type": "Text",
+            "text": "¿Estás comprando solo?"
+        },
+        {
+            "type": "Buttons",
+            "name": "IBM_shopping",
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "selectable": true
         }
     ]
 }

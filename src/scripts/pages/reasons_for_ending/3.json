@@ -3,17 +3,10 @@
     "title": "Razones Para Terminar",
     "cancel_button_text": "Salir",
     "hide_progress": true,
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "En la medida en que hayas completado el programa..."
-                    }
-                }
-            ]
+            "type": "Text",
+            "text": "En la medida en que hayas completado el programa..."
         }
     ]
 }

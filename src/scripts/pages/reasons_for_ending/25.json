@@ -9,30 +9,21 @@
             "value": "Inseguro"
         }
     ],
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "Simplemente olvidé abrir la aplicación."
-                    }
-                },
-                {
-                    "type": "Buttons",
-                    "name": "forgot",
-                    "properties": {
-                        "buttons": [
-                            "De nada",
-                            "Levemente",
-                            "Un poco",
-                            "Principalmente",
-                            "Muy",
-                            "^Prefiero no responder"
-                        ]
-                    }
-                }
+            "type": "Text",
+            "text": "Simplemente olvidé abrir la aplicación."
+        },
+        {
+            "type": "Buttons",
+            "name": "forgot",
+            "buttons": [
+                "De nada",
+                "Levemente",
+                "Un poco",
+                "Principalmente",
+                "Muy",
+                "^Prefiero no responder"
             ]
         }
     ]

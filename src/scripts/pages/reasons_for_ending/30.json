@@ -9,30 +9,21 @@
             "value": "Inseguro"
         }
     ],
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "Pensé que el programa iba a durar demasiado."
-                    }
-                },
-                {
-                    "type": "Buttons",
-                    "name": "too_long",
-                    "properties": {
-                        "buttons": [
-                            "De nada",
-                            "Levemente",
-                            "Un poco",
-                            "Principalmente",
-                            "Muy",
-                            "^Prefiero no responder"
-                        ]
-                    }
-                }
+            "type": "Text",
+            "text": "Pensé que el programa iba a durar demasiado."
+        },
+        {
+            "type": "Buttons",
+            "name": "too_long",
+            "buttons": [
+                "De nada",
+                "Levemente",
+                "Un poco",
+                "Principalmente",
+                "Muy",
+                "^Prefiero no responder"
             ]
         }
     ]

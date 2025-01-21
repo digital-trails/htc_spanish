@@ -9,30 +9,21 @@
             "value": "Inseguro"
         }
     ],
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "¿Qué tan útiles le parecieron los recursos y referencias proporcionados en la aplicación?"
-                    }
-                },
-                {
-                    "type": "Buttons",
-                    "name": "resources_use",
-                    "properties": {
-                        "buttons": [
-                            "De nada",
-                            "Levemente",
-                            "Un poco",
-                            "Principalmente",
-                            "Muy",
-                            "^Prefiero no responder"
-                        ]
-                    }
-                }
+            "type": "Text",
+            "text": "¿Qué tan útiles le parecieron los recursos y referencias proporcionados en la aplicación?"
+        },
+        {
+            "type": "Buttons",
+            "name": "resources_use",
+            "buttons": [
+                "De nada",
+                "Levemente",
+                "Un poco",
+                "Principalmente",
+                "Muy",
+                "^Prefiero no responder"
             ]
         }
     ]

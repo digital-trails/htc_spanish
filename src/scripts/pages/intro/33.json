@@ -1,30 +1,21 @@
 {
     "name": "Medidas de sesgo de interpretación",
     "title": "El ruido fuerte",
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "Te despierta en mitad de la noche un ruido fuerte. No estás seguro de qué causó el ruido y sal de tu habitación para ver qué pasó. Tú caminas..."
-                    }
-                },
-                {
-                    "type": "WordPuzzle",
-                    "name": "IBM_noise_puzzle",
-                    "correct_feedback": "Correcto!",
-                    "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-                    "correct_score": 0.5,
-                    "incorrect_delay": 5000,
-                    "cause_navigation": true,
-                    "properties": {
-                        "words": [
-                            "abajo"
-                        ]
-                    }
-                }
+            "type": "Text",
+            "text": "Te despierta en mitad de la noche un ruido fuerte. No estás seguro de qué causó el ruido y sal de tu habitación para ver qué pasó. Tú caminas..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "IBM_noise_puzzle",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "correct_score": 0.5,
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "abajo"
             ]
         }
     ]

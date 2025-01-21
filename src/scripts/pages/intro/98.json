@@ -3,24 +3,15 @@
     "title": "Ejercicio de limón",
     "timeout": 2,
     "show_buttons": "AfterTimeout",
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "Ahora imagina que te rascas la piel con la una, luego te llevas el limón a la nariz y puedes oler el jugo fresco y picante de la piel."
-                    }
-                },
-                {
-                    "type": "Media",
-                    "properties": {
-                        "path": "/images/lemon4.jpg"
-                    },
-                    "border": true
-                }
-            ]
+            "type": "Text",
+            "text": "Ahora imagina que te rascas la piel con la una, luego te llevas el limón a la nariz y puedes oler el jugo fresco y picante de la piel."
+        },
+        {
+            "type": "Media",
+            "border": true,
+            "path": "/images/lemon4.jpg"
         }
     ]
 }

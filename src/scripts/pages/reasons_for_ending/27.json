@@ -9,30 +9,21 @@
             "value": "Inseguro"
         }
     ],
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "La aplicación era demasiado difícil de navegar."
-                    }
-                },
-                {
-                    "type": "Buttons",
-                    "name": "navigate",
-                    "properties": {
-                        "buttons": [
-                            "De nada",
-                            "Levemente",
-                            "Un poco",
-                            "Principalmente",
-                            "Muy",
-                            "^Prefiero no responder"
-                        ]
-                    }
-                }
+            "type": "Text",
+            "text": "La aplicación era demasiado difícil de navegar."
+        },
+        {
+            "type": "Buttons",
+            "name": "navigate",
+            "buttons": [
+                "De nada",
+                "Levemente",
+                "Un poco",
+                "Principalmente",
+                "Muy",
+                "^Prefiero no responder"
             ]
         }
     ]

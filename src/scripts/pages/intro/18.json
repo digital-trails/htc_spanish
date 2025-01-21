@@ -7,27 +7,18 @@
             "value": "De Venta Libre"
         }
     ],
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "¿Han sido útiles los medicamentos y/o suplementos de venta libre? \n\n1 = Nada útil\n4 = Algo útil\n7=Extremadamente útil"
-                    }
-                },
-                {
-                    "type": "Slider",
-                    "name": "OTC_meds_helpful",
-                    "properties": {
-                        "minimum": 1,
-                        "maximum": 7,
-                        "other_choices": [
-                            "^Prefiero no responder"
-                        ]
-                    }
-                }
+            "type": "Text",
+            "text": "¿Han sido útiles los medicamentos y/o suplementos de venta libre? \n\n1 = Nada útil\n4 = Algo útil\n7=Extremadamente útil"
+        },
+        {
+            "type": "Slider",
+            "name": "OTC_meds_helpful",
+            "minimum": 1,
+            "maximum": 7,
+            "other_choices": [
+                "^Prefiero no responder"
             ]
         }
     ]

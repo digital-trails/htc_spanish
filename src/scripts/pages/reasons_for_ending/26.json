@@ -9,30 +9,21 @@
             "value": "Inseguro"
         }
     ],
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "Problemas personales me impidieron usar la aplicación."
-                    }
-                },
-                {
-                    "type": "Buttons",
-                    "name": "personal_issues",
-                    "properties": {
-                        "buttons": [
-                            "De nada",
-                            "Levemente",
-                            "Un poco",
-                            "Principalmente",
-                            "Muy",
-                            "^Prefiero no responder"
-                        ]
-                    }
-                }
+            "type": "Text",
+            "text": "Problemas personales me impidieron usar la aplicación."
+        },
+        {
+            "type": "Buttons",
+            "name": "personal_issues",
+            "buttons": [
+                "De nada",
+                "Levemente",
+                "Un poco",
+                "Principalmente",
+                "Muy",
+                "^Prefiero no responder"
             ]
         }
     ]

@@ -1,9 +1,9 @@
 {
     "name": "EndOfDay",
-    "pages": [
-		  { "name": "page://scripts/pages/eod/1.json" },
-		  { "name": "page://scripts/pages/eod/2.json" },
-		  { "name": "page://scripts/pages/eod/3.json" },
-		  { "name": "page://scripts/pages/eod/4.json" }
+    "steps": [
+		  { "path": "page://scripts/pages/eod/1.json" },
+		  { "path": "page://scripts/pages/eod/2.json" },
+		  { "path": "page://scripts/pages/eod/3.json" },
+		  { "path": "page://scripts/pages/eod/4.json" }
     ]
 }

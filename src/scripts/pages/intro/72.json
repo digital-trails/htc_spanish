@@ -1,31 +1,22 @@
 {
     "name": "Medidas de sesgo de interpretación",
     "title": "El raspado",
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "EL RASPÓN: El rasguno duele un poco...\n\nPero sabes que estarás bien."
-                    }
-                },
-                {
-                    "type": "Buttons",
-                    "name": "IBM_scrape_interpretation_3",
-                    "properties": {
-                        "buttons": [
-                            "Muy diferente",
-                            "Diferente",
-                            "Similar",
-                            "Muy similar",
-                            "Prefiero no responder"
-                        ],
-                        "selectable": true
-                    }
-                }
-            ]
+            "type": "Text",
+            "text": "EL RASPÓN: El rasguno duele un poco...\n\nPero sabes que estarás bien."
+        },
+        {
+            "type": "Buttons",
+            "name": "IBM_scrape_interpretation_3",
+            "buttons": [
+                "Muy diferente",
+                "Diferente",
+                "Similar",
+                "Muy similar",
+                "Prefiero no responder"
+            ],
+            "selectable": true
         }
     ]
 }

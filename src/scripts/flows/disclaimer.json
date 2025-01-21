@@ -1,6 +1,6 @@
 {
     "name": "Disclaimer",
-    "pages": [
-		  { "name": "page://scripts/pages/disclaimer/1.json" }
+    "steps": [
+		  { "steps": "page://scripts/pages/disclaimer/1.json" }
     ]
 }

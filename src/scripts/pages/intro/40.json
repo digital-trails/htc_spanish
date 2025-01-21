@@ -1,28 +1,19 @@
 {
     "name": "Medidas de sesgo de interpretación",
     "title": "El raspado",
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "¿Estás jugando fútbol con tu amigo?"
-                    }
-                },
-                {
-                    "type": "Buttons",
-                    "name": "IBM_scrape",
-                    "properties": {
-                        "buttons": [
-                            "Sí",
-                            "No"
-                        ],
-                        "selectable": true
-                    }
-                }
-            ]
+            "type": "Text",
+            "text": "¿Estás jugando fútbol con tu amigo?"
+        },
+        {
+            "type": "Buttons",
+            "name": "IBM_scrape",
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "selectable": true
         }
     ]
 }

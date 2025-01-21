@@ -3,24 +3,15 @@
     "title": "Ejercicio de limón",
     "timeout": 2,
     "show_buttons": "AfterTimeout",
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "Ahora imagina que exprimes el limón y un poco del jugo te cae directamente a los ojos, y te pica mucho y te lloran."
-                    }
-                },
-                {
-                    "type": "Media",
-                    "properties": {
-                        "path": "/images/lemon6.jpg"
-                    },
-                    "border": true
-                }
-            ]
+            "type": "Text",
+            "text": "Ahora imagina que exprimes el limón y un poco del jugo te cae directamente a los ojos, y te pica mucho y te lloran."
+        },
+        {
+            "type": "Media",
+            "border": true,
+            "path": "/images/lemon6.jpg"
         }
     ]
 }

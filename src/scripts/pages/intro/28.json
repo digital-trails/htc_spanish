@@ -1,28 +1,19 @@
 {
     "name": "Medidas de sesgo de interpretación",
     "title": "El ascensor",
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "¿Pensaste en la seguridad del ascensor?"
-                    }
-                },
-                {
-                    "type": "Buttons",
-                    "name": "IBM_elevator",
-                    "properties": {
-                        "buttons": [
-                            "Sí",
-                            "No"
-                        ],
-                        "selectable": true
-                    }
-                }
-            ]
+            "type": "Text",
+            "text": "¿Pensaste en la seguridad del ascensor?"
+        },
+        {
+            "type": "Buttons",
+            "name": "IBM_elevator",
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "selectable": true
         }
     ]
 }

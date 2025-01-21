@@ -1,20 +1,16 @@
 import json
 from pathlib import Path
 
-# files = ['eod', 'instructions', 'disclaimer', 'what_is_anxiety']
-# files = [ 
-#     'resources', 
-#     'resources_discrimination', 
-#     'resources_family',
-#     'resources_finances',
-#     'resources_mental',
-#     'resources_personal',
-#     'resources_physical',
-#     'resources_romantic',
-#     'resources_social'
-# ]
-
-files = ['reasons_for_ending']
+files = [
+    'rationale',
+    'faq', 
+    'eod', 
+    'intro', 
+    'instructions', 
+    'disclaimer', 
+    'what_is_anxiety', 
+    'reasons_for_ending'
+]
 
 for file in files:
 
@@ -32,16 +28,17 @@ for file in files:
         for page in page_group['pages']:
             props.update(page)
             props.pop('elements')
+            
+            for e in page['elements']:
+                e.update(e.pop('properties',{}))
+
             page_obj = {
                 **props,
-                'blocks': [ {
-                    'type': 'VerticalLayout',
-                    'elements':page['elements']
-                } ]
+                'elements': page['elements']
             }
 
             directory = Path(f"./src/scripts/pages/{file}")
             directory.mkdir(parents=True, exist_ok=True)
-            with open(directory / f"{page_index}.json", "w+", encoding='utf-8') as f:
+            with open(directory/f"{page_index}.json", "w+", encoding='utf-8') as f:
                 json.dump(page_obj, f, indent=4, ensure_ascii=False)
             page_index+=1

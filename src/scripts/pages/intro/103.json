@@ -1,21 +1,14 @@
 {
     "name": "Imágenes ansiosas principales",
     "title": "Imágenes ansiosas principales",
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "Describa la situación en pocas palabras:"
-                    }
-                },
-                {
-                    "type": "Entry",
-                    "name": "entry_anxious_imagery"
-                }
-            ]
+            "type": "Text",
+            "text": "Describa la situación en pocas palabras:"
+        },
+        {
+            "type": "Entry",
+            "name": "entry_anxious_imagery"
         }
     ]
 }

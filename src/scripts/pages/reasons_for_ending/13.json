@@ -3,30 +3,21 @@
     "title": "Razones Para Terminar",
     "cancel_button_text": "Salir",
     "hide_progress": true,
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "¿Qué tan agotadoras te parecieron las sesiones de entrenamiento?"
-                    }
-                },
-                {
-                    "type": "Buttons",
-                    "name": "tiring_training",
-                    "properties": {
-                        "buttons": [
-                            "De nada",
-                            "Levemente",
-                            "Un poco",
-                            "Principalmente",
-                            "Muy",
-                            "^Prefiero no responder"
-                        ]
-                    }
-                }
+            "type": "Text",
+            "text": "¿Qué tan agotadoras te parecieron las sesiones de entrenamiento?"
+        },
+        {
+            "type": "Buttons",
+            "name": "tiring_training",
+            "buttons": [
+                "De nada",
+                "Levemente",
+                "Un poco",
+                "Principalmente",
+                "Muy",
+                "^Prefiero no responder"
             ]
         }
     ]

@@ -3,24 +3,15 @@
     "title": "Ejercicio de limón",
     "timeout": 2,
     "show_buttons": "AfterTimeout",
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "¡Ese fue el Ejercicio del Limón! No te preocupes si no experimentaste todas las sensaciones con fuerza. Esto es completamente normal."
-                    }
-                },
-                {
-                    "type": "Media",
-                    "properties": {
-                        "path": "/images/lemon7.jpg"
-                    },
-                    "border": true
-                }
-            ]
+            "type": "Text",
+            "text": "¡Ese fue el Ejercicio del Limón! No te preocupes si no experimentaste todas las sensaciones con fuerza. Esto es completamente normal."
+        },
+        {
+            "type": "Media",
+            "border": true,
+            "path": "/images/lemon7.jpg"
         }
     ]
 }

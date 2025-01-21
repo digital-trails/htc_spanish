@@ -1,30 +1,21 @@
 {
     "name": "Medidas de sesgo de interpretación",
     "title": "Conociendo a un amigo",
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "En la calle te encuentras con un viejo amigo al que no ves desde hace mucho tiempo. Ella está demasiado ocupada para detenerse, así que quedan para encontrarse más tarde en un bar. Llegas un poco tarde pero el bar está vacío y unos minutos después ella todavía no está..."
-                    }
-                },
-                {
-                    "type": "WordPuzzle",
-                    "name": "IBM_friend_puzzle",
-                    "correct_feedback": "Correcto!",
-                    "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-                    "correct_score": 0.5,
-                    "incorrect_delay": 5000,
-                    "cause_navigation": true,
-                    "properties": {
-                        "words": [
-                            "allá"
-                        ]
-                    }
-                }
+            "type": "Text",
+            "text": "En la calle te encuentras con un viejo amigo al que no ves desde hace mucho tiempo. Ella está demasiado ocupada para detenerse, así que quedan para encontrarse más tarde en un bar. Llegas un poco tarde pero el bar está vacío y unos minutos después ella todavía no está..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "IBM_friend_puzzle",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "correct_score": 0.5,
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "allá"
             ]
         }
     ]

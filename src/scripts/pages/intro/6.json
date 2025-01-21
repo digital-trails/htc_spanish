@@ -1,41 +1,32 @@
 {
     "name": "Demografía",
     "title": "Demografía",
-    "blocks": [
+    "elements": [
         {
-            "type": "VerticalLayout",
-            "elements": [
-                {
-                    "type": "Text",
-                    "properties": {
-                        "text": "¿Cuál es su máximo nivel educativo?"
-                    }
-                },
-                {
-                    "type": "Buttons",
-                    "name": "education",
-                    "properties": {
-                        "buttons": [
-                            "Escuela primaria",
-                            "Secundaria",
-                            "Algún instituto",
-                            "Graduado de preparatoria",
-                            "Alguna educación superior",
-                            "Grado Asociado",
-                            "Licenciatura",
-                            "Alguna escuela de posgrado",
-                            "Maestría",
-                            "MBA",
-                            "JD",
-                            "MARYLAND.",
-                            "Doctor.",
-                            "Otros Títulos Avanzados",
-                            "^Prefiero no responder"
-                        ],
-                        "selectable": true
-                    }
-                }
-            ]
+            "type": "Text",
+            "text": "¿Cuál es su máximo nivel educativo?"
+        },
+        {
+            "type": "Buttons",
+            "name": "education",
+            "buttons": [
+                "Escuela primaria",
+                "Secundaria",
+                "Algún instituto",
+                "Graduado de preparatoria",
+                "Alguna educación superior",
+                "Grado Asociado",
+                "Licenciatura",
+                "Alguna escuela de posgrado",
+                "Maestría",
+                "MBA",
+                "JD",
+                "MARYLAND.",
+                "Doctor.",
+                "Otros Títulos Avanzados",
+                "^Prefiero no responder"
+            ],
+            "selectable": true
         }
     ]
 }
