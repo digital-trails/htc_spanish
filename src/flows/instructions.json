@@ -1,8 +1,6 @@
 {
     "name": "Instructions",
     "title": "Instrucciones",
-    "submit_button_text": "OK",
-    "hide_progress": true,
     "elements": [
         {
             "type": "Text",

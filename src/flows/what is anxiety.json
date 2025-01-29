@@ -1,8 +1,6 @@
 {
     "name": "WhatIsAnxiety?",
     "title": "¿Qué es la Ansiedad?",
-    "submit_button_text": "OK",
-    "hide_progress": true,
     "elements": [
         {
             "type": "Text",

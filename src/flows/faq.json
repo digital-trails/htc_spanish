@@ -1,8 +1,6 @@
 {
     "name": "FrequentlyAskedQuestions",
     "title": "Preguntas Más Frecuentes",
-    "submit_button_text": "OK",
-    "hide_progress": true,
     "elements": [
         {
             "type": "Text",

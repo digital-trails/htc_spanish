@@ -1,8 +1,6 @@
 {
     "name": "Disclaimer",
     "title": "Disclaimer",
-    "submit_button_text": "OK",
-    "hide_progress": true,
     "elements": [
         {
             "type": "Text",
