@@ -1,0 +1,14 @@
+{
+    "name": "Corriendo una maratón147",
+    "title": "Corriendo una maratón",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corriendo una maratón"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesCorriendo_una_maratón.jpeg"
+        }
+    ]
+}

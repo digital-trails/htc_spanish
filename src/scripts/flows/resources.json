@@ -1,6 +1,0 @@
-{
-   "name":"Resources",
-   "steps": [
-		{"path":"page://scripts/pages/resources/1.json" }
-    ]
-}

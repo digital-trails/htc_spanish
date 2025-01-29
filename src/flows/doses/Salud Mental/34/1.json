@@ -1,0 +1,14 @@
+{
+    "name": "Expresar tu opinión30",
+    "title": "Expresar tu opinión",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Expresar tu opinión"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesExpresar_tu_opinión.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Subiendo una montaña363",
+    "title": "Subiendo una montaña",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Subiendo una montaña"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesSubiendo_una_montaña.jpeg"
+        }
+    ]
+}

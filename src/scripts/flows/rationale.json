@@ -1,8 +1,0 @@
-{
-    "name": "rationale",
-    "steps": [
-      { 
-        "path": "page://scripts/pages/rationale/1.json"
-      } 
-    ]
-  }

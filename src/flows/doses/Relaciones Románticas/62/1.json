@@ -1,0 +1,14 @@
+{
+    "name": "Abrirse54",
+    "title": "Abrirse",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Abrirse"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesAbrirse.jpeg"
+        }
+    ]
+}

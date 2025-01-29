@@ -1,0 +1,14 @@
+{
+    "name": "Estar de más2",
+    "title": "Estar de más",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Estar de más"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesEstar_de_más.jpeg"
+        }
+    ]
+}

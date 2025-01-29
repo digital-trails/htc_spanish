@@ -1,0 +1,14 @@
+{
+    "name": "Una invitación256",
+    "title": "Una invitación",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una invitación"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesUna_invitación.jpeg"
+        }
+    ]
+}

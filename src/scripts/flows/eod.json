@@ -1,9 +1,0 @@
-{
-    "name": "EndOfDay",
-    "steps": [
-		  { "path": "page://scripts/pages/eod/1.json" },
-		  { "path": "page://scripts/pages/eod/2.json" },
-		  { "path": "page://scripts/pages/eod/3.json" },
-		  { "path": "page://scripts/pages/eod/4.json" }
-    ]
-}

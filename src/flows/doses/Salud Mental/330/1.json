@@ -1,0 +1,14 @@
+{
+    "name": "Tu nueva publicación367",
+    "title": "Tu nueva publicación",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tu nueva publicación"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesTu_nueva_publicación.jpeg"
+        }
+    ]
+}

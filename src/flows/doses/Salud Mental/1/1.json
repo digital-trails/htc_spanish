@@ -1,0 +1,14 @@
+{
+    "name": "Planes de viajar1",
+    "title": "Planes de viajar",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Planes de viajar"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesPlanes_de_viajar.jpeg"
+        }
+    ]
+}

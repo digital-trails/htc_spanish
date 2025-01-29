@@ -1,0 +1,14 @@
+{
+    "name": "Solicitar una subvención7",
+    "title": "Solicitar una subvención",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Solicitar una subvención"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesSolicitar_una_subvención.jpeg"
+        }
+    ]
+}

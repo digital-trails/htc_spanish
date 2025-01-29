@@ -1,0 +1,14 @@
+{
+    "name": "Sensación de noche8",
+    "title": "Sensación de noche",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sensación de noche"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesSensación_de_noche.jpeg"
+        }
+    ]
+}

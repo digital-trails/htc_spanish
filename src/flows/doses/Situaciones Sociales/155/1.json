@@ -1,0 +1,14 @@
+{
+    "name": "Arriesgándote162",
+    "title": "Arriesgándote",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Arriesgándote"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesArriesgándote.jpeg"
+        }
+    ]
+}

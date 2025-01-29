@@ -1,0 +1,14 @@
+{
+    "name": "Corriendo con un amigo181",
+    "title": "Corriendo con un amigo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corriendo con un amigo"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesCorriendo_con_un_amigo.jpeg"
+        }
+    ]
+}

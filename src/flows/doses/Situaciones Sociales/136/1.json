@@ -1,0 +1,14 @@
+{
+    "name": "Atención en la tienda146",
+    "title": "Atención en la tienda",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Atención en la tienda"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesAtención_en_la_tienda.jpeg"
+        }
+    ]
+}

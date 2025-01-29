@@ -1,0 +1,14 @@
+{
+    "name": "Primera reunión30",
+    "title": "Primera reunión",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Primera reunión"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesPrimera_reunión.jpeg"
+        }
+    ]
+}

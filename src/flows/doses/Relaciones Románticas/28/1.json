@@ -1,0 +1,14 @@
+{
+    "name": "Consejos para un amigo24",
+    "title": "Consejos para un amigo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Consejos para un amigo"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesConsejos_para_un_amigo.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "No recibir una invitación144",
+    "title": "No recibir una invitación",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "No recibir una invitación"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesNo_recibir_una_invitación.jpeg"
+        }
+    ]
+}

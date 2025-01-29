@@ -1,0 +1,14 @@
+{
+    "name": "Opinión diferente168",
+    "title": "Opinión diferente",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Opinión diferente"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesOpinión_diferente.jpeg"
+        }
+    ]
+}

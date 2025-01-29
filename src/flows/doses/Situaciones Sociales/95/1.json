@@ -1,0 +1,14 @@
+{
+    "name": "Cumpleaños de un amigo cercano84",
+    "title": "Cumpleaños de un amigo cercano",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cumpleaños de un amigo cercano"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesCumpleaños_de_un_amigo_cercano.jpeg"
+        }
+    ]
+}

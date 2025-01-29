@@ -1,0 +1,14 @@
+{
+    "name": "Llamada telefónica del lunes15",
+    "title": "Llamada telefónica del lunes",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Llamada telefónica del lunes"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesLlamada_telefónica_del_lunes.jpeg"
+        }
+    ]
+}

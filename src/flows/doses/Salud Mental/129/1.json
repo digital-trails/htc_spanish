@@ -1,0 +1,14 @@
+{
+    "name": "Correo electrónico perspicaz140",
+    "title": "Correo electrónico perspicaz",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Correo electrónico perspicaz"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesCorreo_electrónico_perspicaz.jpeg"
+        }
+    ]
+}

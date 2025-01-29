@@ -1,0 +1,14 @@
+{
+    "name": "relación a distancia129",
+    "title": "relación a distancia",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "relación a distancia"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesrelación_a_distancia.jpeg"
+        }
+    ]
+}

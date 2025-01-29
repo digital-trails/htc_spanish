@@ -1,0 +1,14 @@
+{
+    "name": "Comparación de puntuaciones en redes sociales64",
+    "title": "Comparación de puntuaciones en redes sociales",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comparación de puntuaciones en redes sociales"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesComparación_de_puntuaciones_en_redes_sociales.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Factura por una reparación71",
+    "title": "Factura por una reparación",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Factura por una reparación"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesFactura_por_una_reparación.jpeg"
+        }
+    ]
+}

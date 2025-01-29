@@ -1,0 +1,14 @@
+{
+    "name": "Gestión de responsabilidades175",
+    "title": "Gestión de responsabilidades",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Gestión de responsabilidades"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesGestión_de_responsabilidades.jpeg"
+        }
+    ]
+}

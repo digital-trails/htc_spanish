@@ -1,0 +1,14 @@
+{
+    "name": "Invitación a cenar165",
+    "title": "Invitación a cenar",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Invitación a cenar"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesInvitación_a_cenar.jpeg"
+        }
+    ]
+}

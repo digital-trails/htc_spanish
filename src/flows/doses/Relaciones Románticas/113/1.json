@@ -1,0 +1,14 @@
+{
+    "name": "Comunicación familiar125",
+    "title": "Comunicación familiar",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comunicación familiar"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesComunicación_familiar.jpeg"
+        }
+    ]
+}

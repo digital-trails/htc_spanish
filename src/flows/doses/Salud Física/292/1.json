@@ -1,0 +1,14 @@
+{
+    "name": "Pensamientos en la estación de tren309",
+    "title": "Pensamientos en la estación de tren",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pensamientos en la estación de tren"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesPensamientos_en_la_estación_de_tren.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Tu primer hijo27",
+    "title": "Tu primer hijo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tu primer hijo"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesTu_primer_hijo.jpeg"
+        }
+    ]
+}

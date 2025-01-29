@@ -1,0 +1,14 @@
+{
+    "name": "Oportunidad de espectáculo126",
+    "title": "Oportunidad de espectáculo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Oportunidad de espectáculo"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesOportunidad_de_espectáculo.jpeg"
+        }
+    ]
+}

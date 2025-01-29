@@ -1,0 +1,14 @@
+{
+    "name": "Dolor de estómago375",
+    "title": "Dolor de estómago",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dolor de estómago"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesDolor_de_estómago.jpeg"
+        }
+    ]
+}

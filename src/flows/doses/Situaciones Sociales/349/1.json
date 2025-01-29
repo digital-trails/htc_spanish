@@ -1,0 +1,14 @@
+{
+    "name": "Planes cancelados385",
+    "title": "Planes cancelados",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Planes cancelados"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesPlanes_cancelados.jpeg"
+        }
+    ]
+}

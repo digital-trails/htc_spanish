@@ -1,0 +1,14 @@
+{
+    "name": "Going to Therapy311",
+    "title": "Going to Therapy",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Going to Therapy"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesGoing_to_Therapy.jpeg"
+        }
+    ]
+}

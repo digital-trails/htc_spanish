@@ -1,0 +1,14 @@
+{
+    "name": "Casa bilingüe130",
+    "title": "Casa bilingüe",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Casa bilingüe"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesCasa_bilingüe.jpeg"
+        }
+    ]
+}

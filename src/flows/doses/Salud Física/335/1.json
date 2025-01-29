@@ -1,0 +1,14 @@
+{
+    "name": "Problemas de visión372",
+    "title": "Problemas de visión",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Problemas de visión"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesProblemas_de_visión.jpeg"
+        }
+    ]
+}

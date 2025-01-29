@@ -1,0 +1,14 @@
+{
+    "name": "Dando la mano43",
+    "title": "Dando la mano",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dando la mano"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesDando_la_mano.jpeg"
+        }
+    ]
+}

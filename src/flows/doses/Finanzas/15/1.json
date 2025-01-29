@@ -1,0 +1,14 @@
+{
+    "name": "Preocupándote por gastar12",
+    "title": "Preocupándote por gastar",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Preocupándote por gastar"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesPreocupándote_por_gastar.jpeg"
+        }
+    ]
+}

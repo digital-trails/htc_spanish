@@ -1,6 +1,0 @@
-{
-    "name": "WhatIsAnxiety",
-    "steps": [
-		  { "path": "page://scripts/pages/what_is_anxiety/1.json" }
-    ]
-}

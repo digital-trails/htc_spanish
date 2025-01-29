@@ -1,0 +1,14 @@
+{
+    "name": "Dando una presentación66",
+    "title": "Dando una presentación",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dando una presentación"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesDando_una_presentación.jpeg"
+        }
+    ]
+}

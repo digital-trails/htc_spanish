@@ -1,0 +1,14 @@
+{
+    "name": "Tu fiesta de cumpleaños36",
+    "title": "Tu fiesta de cumpleaños",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tu fiesta de cumpleaños"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesTu_fiesta_de_cumpleaños.jpeg"
+        }
+    ]
+}

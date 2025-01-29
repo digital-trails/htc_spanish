@@ -1,0 +1,14 @@
+{
+    "name": "Cancelación de concierto380",
+    "title": "Cancelación de concierto",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cancelación de concierto"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesCancelación_de_concierto.jpeg"
+        }
+    ]
+}

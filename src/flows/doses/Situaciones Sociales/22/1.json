@@ -1,0 +1,14 @@
+{
+    "name": "Decepción de aniversario19",
+    "title": "Decepción de aniversario",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Decepción de aniversario"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesDecepción_de_aniversario.jpeg"
+        }
+    ]
+}

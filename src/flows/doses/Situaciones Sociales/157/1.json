@@ -1,0 +1,14 @@
+{
+    "name": "Tomando una llamada164",
+    "title": "Tomando una llamada",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tomando una llamada"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesTomando_una_llamada.jpeg"
+        }
+    ]
+}

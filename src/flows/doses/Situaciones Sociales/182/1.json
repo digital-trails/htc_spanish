@@ -1,0 +1,14 @@
+{
+    "name": "Sábado sin planes187",
+    "title": "Sábado sin planes",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sábado sin planes"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesSábado_sin_planes.jpeg"
+        }
+    ]
+}

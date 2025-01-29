@@ -1,0 +1,14 @@
+{
+    "name": "Tiempo para ti mismo58",
+    "title": "Tiempo para ti mismo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tiempo para ti mismo"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesTiempo_para_ti_mismo.jpeg"
+        }
+    ]
+}

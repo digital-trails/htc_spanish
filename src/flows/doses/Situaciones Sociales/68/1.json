@@ -1,0 +1,14 @@
+{
+    "name": "Planes de vacaiones60",
+    "title": "Planes de vacaiones",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Planes de vacaiones"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesPlanes_de_vacaiones.jpeg"
+        }
+    ]
+}

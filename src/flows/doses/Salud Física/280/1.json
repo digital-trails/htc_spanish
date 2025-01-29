@@ -1,0 +1,14 @@
+{
+    "name": "Visión borrosa299",
+    "title": "Visión borrosa",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Visión borrosa"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesVisión_borrosa.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Fiesta sensacional200",
+    "title": "Fiesta sensacional",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Fiesta sensacional"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesFiesta_sensacional.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Lunes por la mañana3",
+    "title": "Lunes por la mañana",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Lunes por la mañana"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesLunes_por_la_mañana.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Invitando tu Amigo a una Cita81",
+    "title": "Invitando tu Amigo a una Cita",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Invitando tu Amigo a una Cita"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesInvitando_tu_Amigo_a_una_Cita.jpeg"
+        }
+    ]
+}

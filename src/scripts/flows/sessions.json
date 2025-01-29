@@ -1,6 +1,0 @@
-{
-   "steps": [
-		{ "path": "flow://scripts/flows/intro.json", "conditions": [ {"variable": "NRUNS", "comparator":"=" , "value": 0 } ] },
-		{ "path": "flow://scripts/flows/doses.json", "conditions": [ {"variable": "NRUNS", "comparator":">=", "value": 1 } ] },
-    ]
-}

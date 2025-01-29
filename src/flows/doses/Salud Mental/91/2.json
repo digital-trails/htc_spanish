@@ -1,0 +1,14 @@
+{
+    "name": "Expresándote81",
+    "title": "Expresándote",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Expresándote"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesExpresándote.jpeg"
+        }
+    ]
+}

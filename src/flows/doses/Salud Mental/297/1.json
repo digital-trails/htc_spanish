@@ -1,0 +1,14 @@
+{
+    "name": "Despertándote listo313",
+    "title": "Despertándote listo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Despertándote listo"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesDespertándote_listo.jpeg"
+        }
+    ]
+}

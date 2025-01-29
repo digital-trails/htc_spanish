@@ -1,0 +1,14 @@
+{
+    "name": "Una cámara nueva252",
+    "title": "Una cámara nueva",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una cámara nueva"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesUna_cámara_nueva.jpeg"
+        }
+    ]
+}

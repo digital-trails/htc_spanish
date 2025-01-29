@@ -1,0 +1,14 @@
+{
+    "name": "Una presentación importante256",
+    "title": "Una presentación importante",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una presentación importante"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesUna_presentación_importante.jpeg"
+        }
+    ]
+}

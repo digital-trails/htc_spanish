@@ -1,0 +1,14 @@
+{
+    "name": "Situación de embriaguez324",
+    "title": "Situación de embriaguez",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Situación de embriaguez"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesSituación_de_embriaguez.jpeg"
+        }
+    ]
+}

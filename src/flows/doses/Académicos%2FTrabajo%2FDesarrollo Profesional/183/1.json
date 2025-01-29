@@ -1,0 +1,14 @@
+{
+    "name": "Presentación estresante188",
+    "title": "Presentación estresante",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presentación estresante"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesPresentación_estresante.jpeg"
+        }
+    ]
+}

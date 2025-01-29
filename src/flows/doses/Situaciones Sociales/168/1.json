@@ -1,0 +1,14 @@
+{
+    "name": "Mascarillas para invitados174",
+    "title": "Mascarillas para invitados",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mascarillas para invitados"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesMascarillas_para_invitados.jpeg"
+        }
+    ]
+}

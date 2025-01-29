@@ -1,0 +1,14 @@
+{
+    "name": "Reconciliándote con tu amigo290",
+    "title": "Reconciliándote con tu amigo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Reconciliándote con tu amigo"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesReconciliándote_con_tu_amigo.jpeg"
+        }
+    ]
+}

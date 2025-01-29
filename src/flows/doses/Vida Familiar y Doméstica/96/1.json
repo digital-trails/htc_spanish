@@ -1,0 +1,14 @@
+{
+    "name": "Decisiones de viaje85",
+    "title": "Decisiones de viaje",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Decisiones de viaje"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesDecisiones_de_viaje.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Terminando el trabajo12",
+    "title": "Terminando el trabajo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Terminando el trabajo"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesTerminando_el_trabajo.jpeg"
+        }
+    ]
+}

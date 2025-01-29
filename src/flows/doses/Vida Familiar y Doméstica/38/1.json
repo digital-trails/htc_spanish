@@ -1,0 +1,14 @@
+{
+    "name": "Tensión familiar33",
+    "title": "Tensión familiar",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tensión familiar"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesTensión_familiar.jpeg"
+        }
+    ]
+}

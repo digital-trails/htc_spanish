@@ -1,0 +1,14 @@
+{
+    "name": "Opinión importante252",
+    "title": "Opinión importante",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Opinión importante"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesOpinión_importante.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Fiesta de cumpleaños55",
+    "title": "Fiesta de cumpleaños",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Fiesta de cumpleaños"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesFiesta_de_cumpleaños.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Recuperándote despues de un error49",
+    "title": "Recuperándote despues de un error",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Recuperándote despues de un error"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesRecuperándote_despues_de_un_error.jpeg"
+        }
+    ]
+}

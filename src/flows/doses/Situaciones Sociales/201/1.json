@@ -1,0 +1,14 @@
+{
+    "name": "Comentarios honestos203",
+    "title": "Comentarios honestos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comentarios honestos"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesComentarios_honestos.jpeg"
+        }
+    ]
+}

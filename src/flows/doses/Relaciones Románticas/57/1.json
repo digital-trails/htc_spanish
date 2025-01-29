@@ -1,0 +1,14 @@
+{
+    "name": "Preocupaciones por el COVID51",
+    "title": "Preocupaciones por el COVID",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Preocupaciones por el COVID"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesPreocupaciones_por_el_COVID.jpeg"
+        }
+    ]
+}

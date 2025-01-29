@@ -1,0 +1,14 @@
+{
+    "name": "Puerta cerrada16",
+    "title": "Puerta cerrada",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Puerta cerrada"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesPuerta_cerrada.jpeg"
+        }
+    ]
+}

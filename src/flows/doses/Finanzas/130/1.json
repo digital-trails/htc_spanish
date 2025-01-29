@@ -1,0 +1,14 @@
+{
+    "name": "Presentación de impuestos141",
+    "title": "Presentación de impuestos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presentación de impuestos"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesPresentación_de_impuestos.jpeg"
+        }
+    ]
+}

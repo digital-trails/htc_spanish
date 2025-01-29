@@ -1,0 +1,14 @@
+{
+    "name": "Problemas de amigos177",
+    "title": "Problemas de amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Problemas de amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesProblemas_de_amigos.jpeg"
+        }
+    ]
+}

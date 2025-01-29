@@ -1,0 +1,14 @@
+{
+    "name": "Contribuir a una discusión191",
+    "title": "Contribuir a una discusión",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Contribuir a una discusión"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesContribuir_a_una_discusión.jpeg"
+        }
+    ]
+}

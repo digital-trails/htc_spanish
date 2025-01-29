@@ -1,0 +1,14 @@
+{
+    "name": "Cambiar tus planes167",
+    "title": "Cambiar tus planes",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cambiar tus planes"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesCambiar_tus_planes.jpeg"
+        }
+    ]
+}

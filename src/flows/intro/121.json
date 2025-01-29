@@ -1,0 +1,14 @@
+{
+    "name": "Una pastel de cumpleaños2",
+    "title": "Una pastel de cumpleaños",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una pastel de cumpleaños"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesUna_pastel_de_cumpleaños.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Anticipación de entrevista184",
+    "title": "Anticipación de entrevista",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Anticipación de entrevista"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesAnticipación_de_entrevista.jpeg"
+        }
+    ]
+}

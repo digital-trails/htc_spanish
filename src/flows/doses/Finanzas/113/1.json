@@ -1,0 +1,14 @@
+{
+    "name": "Asistiendo a un espectáculo125",
+    "title": "Asistiendo a un espectáculo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Asistiendo a un espectáculo"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesAsistiendo_a_un_espectáculo.jpeg"
+        }
+    ]
+}

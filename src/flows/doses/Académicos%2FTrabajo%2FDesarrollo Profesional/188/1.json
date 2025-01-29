@@ -1,0 +1,14 @@
+{
+    "name": "Tomar una decisión192",
+    "title": "Tomar una decisión",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tomar una decisión"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesTomar_una_decisión.jpeg"
+        }
+    ]
+}

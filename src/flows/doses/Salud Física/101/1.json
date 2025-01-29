@@ -1,0 +1,14 @@
+{
+    "name": "Distanciamiento social adentro90",
+    "title": "Distanciamiento social adentro",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Distanciamiento social adentro"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesDistanciamiento_social_adentro.jpeg"
+        }
+    ]
+}

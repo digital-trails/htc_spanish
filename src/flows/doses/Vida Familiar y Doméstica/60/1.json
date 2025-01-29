@@ -1,0 +1,14 @@
+{
+    "name": "Inicio Presentaciones52",
+    "title": "Inicio Presentaciones",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Inicio Presentaciones"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesInicio_Presentaciones.jpeg"
+        }
+    ]
+}

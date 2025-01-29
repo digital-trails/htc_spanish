@@ -9,22 +9,22 @@
 		"button_tl": {
 			"text": "¿Qué es MindTrails Español?",
 			"icon": "/assets/home_mindtrails.png",
-			"action": "flow://scripts/flows/rationale.json"
+			"action": "flow://flows/rationale.json"
 		},
 		"button_tr": {
 			"text": "Instrucciones",
 			"icon": "/assets/home_instructions.png",
-			"action": "flow://scripts/flows/instructions.json"
+			"action": "flow://flows/instructions.json"
 		},
 		"button_br": {
 			"text": "Recursos",
 			"icon": "/assets/home_resources.png",
-			"action": "flow://scripts/flows/resources.json"
+			"action": "page://flows/resources.json"
 		},
 		"button_bl": {
 			"text": "¿Qué es la Ansiedad?",
 			"icon": "/assets/home_anxiety.png",
-			"action": "flow://scripts/flows/what_is_anxiety.json"
+			"action": "flow://flows/what is anxiety.json"
 		}
 	},
 	"menu": {
@@ -35,7 +35,7 @@
 		"unenroll": {
 			"text": "Unenroll",
 			"icon": "/assets/menu_unenroll.png",
-			"action": "flow://scripts/flows/reasons_for_ending.json"
+			"action": "flow://flows/reasons for ending"
 		},
 		"log_out": {
 			"text": "Log Out",
@@ -45,32 +45,32 @@
 			{
 				"text": "¿Qué es MindTrails Español?",
 				"icon": "/assets/menu_mindtrails.png",
-				"action": "flow://scripts/flows/rationale.json"
+				"action": "flow://flows/rationale.json"
 			},
 			{
 				"text": "<INTRO>",
 				"icon": "/assets/menu_mindtrails.png",
-				"action": "flow://scripts/flows/intro.json"
+				"action": "flow://flows/intro"
 			},
 			{
 				"text": "Instrucciones",
 				"icon": "/assets/menu_instructions.png",
-				"action": "flow://scripts/flows/instructions.json"
+				"action": "flow://flows/instructions.json"
 			},
 			{
 				"text": "¿Qué es la Ansiedad?",
 				"icon": "/assets/menu_anxiety.png",
-				"action": "flow://scripts/flows/what_is_anxiety.json"
+				"action": "flow://flows/what is anxiety.json"
 			},
 			{
 				"text": "Recursos",
 				"icon": "/assets/menu_resources.png",
-				"action": "flow://scripts/flows/resources.json"
+				"action": "flow://flows/resources.json"
 			},
 			{
 				"text": "F.A.Q.",
 				"icon": "/assets/menu_faq.png",
-				"action": "flow://scripts/flows/faq.json"
+				"action": "flow://flows/faq.json"
 			},
 			{
 				"text": "Meet the Team",
@@ -85,23 +85,23 @@
 			{
 				"text": "Disclaimer",
 				"icon": "/assets/menu_disclaimer.png",
-				"action": "flow://scripts/flows/disclaimer.json"
+				"action": "flow://flows/disclaimer.json"
 			}
 		]
 	},
-	"sessions": "flow://scripts/flows/sessions.json",
+	"sessions": "flow://flows/doses",
 	"triggers": [
 		{
 			"type": "timing",
 			"action": "survey",
-			"content": "flow://scripts/flows/eod.json",
+			"content": "flow://flows/eod",
 			"frequency": "1",
 			"time": "20:00"
 		},
 		{
 			"type": "timing",
 			"action": "survey",
-			"content": "flow://scripts/flows/biweekly.json",
+			"content": "flow://flows/biweekly",
 			"frequency": "14",
 			"time": "20:00",
 			"requires": ["sessions"]

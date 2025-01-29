@@ -1,0 +1,14 @@
+{
+    "name": "Escándalo de ahorro189",
+    "title": "Escándalo de ahorro",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Escándalo de ahorro"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesEscándalo_de_ahorro.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Conversación durante la cena389",
+    "title": "Conversación durante la cena",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conversación durante la cena"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesConversación_durante_la_cena.jpeg"
+        }
+    ]
+}

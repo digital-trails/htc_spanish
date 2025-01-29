@@ -1,0 +1,14 @@
+{
+    "name": "Vacacionando en avión166",
+    "title": "Vacacionando en avión",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Vacacionando en avión"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesVacacionando_en_avión.jpeg"
+        }
+    ]
+}

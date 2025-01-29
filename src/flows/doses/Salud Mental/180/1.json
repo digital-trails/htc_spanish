@@ -1,0 +1,14 @@
+{
+    "name": "Yendo de vacaciones185",
+    "title": "Yendo de vacaciones",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Yendo de vacaciones"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesYendo_de_vacaciones.jpeg"
+        }
+    ]
+}

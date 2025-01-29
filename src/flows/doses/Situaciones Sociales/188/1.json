@@ -1,0 +1,14 @@
+{
+    "name": "Fiesta con amigos192",
+    "title": "Fiesta con amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Fiesta con amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesFiesta_con_amigos.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Trabajo placentero180",
+    "title": "Trabajo placentero",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trabajo placentero"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesTrabajo_placentero.jpeg"
+        }
+    ]
+}

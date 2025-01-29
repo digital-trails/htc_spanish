@@ -1,9 +1,0 @@
-{
-   "name":"Family",
-   "steps": [
-		  {"path":"page://scripts/pages/resources_family/1.json" },
-		  {"path":"page://scripts/pages/resources_family/2.json", "conditions": [ {"variable": "action", "comparator":"=" , "value": "Familias" } ] },
-		  {"path":"page://scripts/pages/resources_family/3.json", "conditions": [ {"variable": "action", "comparator":"=" , "value": "Seguridad" } ] },
-		  {"path":"page://scripts/pages/resources_family/4.json", "conditions": [ {"variable": "action", "comparator":"=" , "value": "Otro" } ] }
-    ]
-}

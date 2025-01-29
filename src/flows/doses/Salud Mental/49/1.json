@@ -1,0 +1,14 @@
+{
+    "name": "Revisando tu trabajo43",
+    "title": "Revisando tu trabajo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Revisando tu trabajo"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesRevisando_tu_trabajo.jpeg"
+        }
+    ]
+}

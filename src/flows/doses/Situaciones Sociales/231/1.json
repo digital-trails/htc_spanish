@@ -1,0 +1,14 @@
+{
+    "name": "No tener mucho que decir254",
+    "title": "No tener mucho que decir",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "No tener mucho que decir"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesNo_tener_mucho_que_decir.jpeg"
+        }
+    ]
+}

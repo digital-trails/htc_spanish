@@ -1,0 +1,14 @@
+{
+    "name": "Club de lectura377",
+    "title": "Club de lectura",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Club de lectura"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesClub_de_lectura.jpeg"
+        }
+    ]
+}

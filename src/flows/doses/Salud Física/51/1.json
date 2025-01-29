@@ -1,0 +1,14 @@
+{
+    "name": "Revisión física anual45",
+    "title": "Revisión física anual",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Revisión física anual"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesRevisión_física_anual.jpeg"
+        }
+    ]
+}

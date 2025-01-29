@@ -1,0 +1,14 @@
+{
+    "name": "Presupuestar su asignación171",
+    "title": "Presupuestar su asignación",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presupuestar su asignación"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesPresupuestar_su_asignación.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Una mesa sucia46",
+    "title": "Una mesa sucia",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una mesa sucia"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesUna_mesa_sucia.jpeg"
+        }
+    ]
+}

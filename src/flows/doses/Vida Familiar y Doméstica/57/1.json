@@ -1,0 +1,14 @@
+{
+    "name": "Conducción segura51",
+    "title": "Conducción segura",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conducción segura"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesConducción_segura.jpeg"
+        }
+    ]
+}

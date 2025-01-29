@@ -1,0 +1,14 @@
+{
+    "name": "Presentación de clase84",
+    "title": "Presentación de clase",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presentación de clase"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesPresentación_de_clase.jpeg"
+        }
+    ]
+}

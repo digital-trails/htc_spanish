@@ -1,0 +1,14 @@
+{
+    "name": "Una audiencia captada286",
+    "title": "Una audiencia captada",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una audiencia captada"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesUna_audiencia_captada.jpeg"
+        }
+    ]
+}

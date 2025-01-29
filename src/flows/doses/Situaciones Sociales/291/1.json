@@ -1,0 +1,14 @@
+{
+    "name": "Saludando a alguien308",
+    "title": "Saludando a alguien",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Saludando a alguien"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesSaludando_a_alguien.jpeg"
+        }
+    ]
+}

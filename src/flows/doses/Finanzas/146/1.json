@@ -1,0 +1,14 @@
+{
+    "name": "Sentir presión al salir154",
+    "title": "Sentir presión al salir",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sentir presión al salir"
+        },
+        {
+            "type": "Media",
+            "file": "/imagesSentir_presión_al_salir.jpeg"
+        }
+    ]
+}
