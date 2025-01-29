@@ -1,0 +1,5 @@
+{
+   "steps": [
+		{ "path": "flow://scripts/flows/doses.json", "conditions": [ {"variable": "NRUNS", "comparator":">=", "value": 1 } ] },
+    ]
+}
