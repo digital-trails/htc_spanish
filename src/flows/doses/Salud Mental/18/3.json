@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Ponerte ansioso por sentirte desorientado.",
-                "Simplemente observar y aceptar los sentimientos."
+                "Simplemente observar y aceptar los sentimientos.",
+                "Ponerte ansioso por sentirte desorientado."
             ],
             "columnCount": 1,
             "answer": "Simplemente observar y aceptar los sentimientos."

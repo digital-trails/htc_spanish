@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Salud Mental",
-    "name": "Consejo para la regulación de las emociones",
+    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Pregúntese si se están satisfaciendo sus necesidades sociales. (¿Quieres estar rodeado de otras personas en este momento? ¿Quieres estar solo?) Permítete honrar estas necesidades dejando que las personas que te rodean sepan cómo te sientes y qué necesitas."
+            "text": "Piensas en las lecciones que aprendiste de las historias que lees hoy. Mirando hacia atrás a una situación reciente que te hizo ansioso, ¿cómo podrías haberlo pensado de una manera diferente para que fuera más fácil de manejar?"
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #5_entry"
         }
     ]
 }

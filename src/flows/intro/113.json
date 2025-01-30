@@ -13,7 +13,10 @@
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
-            "buttons": null,
+            "buttons": [
+                "Apoye sus ideas.",
+                "No le gustan tus ideas."
+            ],
             "columnCount": 1,
             "answer": "Apoye sus ideas."
         }

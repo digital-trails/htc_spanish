@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en algo que te causó ansiedad la primera vez que lo hiciste. ¿Qué estrategias te ayudaron a superar eso?"
+            "text": "¿Hay alguna situación que antes te daba miedo o te provocaba ansiedad, pero en la que ahora te sientes cómodo? ¿Qué te decías a ti mismo en esa situación? ¿Qué piensas ahora?"
         },
         {
             "type": "Entry",
-            "name": "Consejo #1_entry"
+            "name": "Consejo #3_entry"
         }
     ]
 }

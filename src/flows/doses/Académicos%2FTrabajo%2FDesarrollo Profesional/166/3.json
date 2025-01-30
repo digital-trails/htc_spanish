@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Tienes que parar tu exposición y huir de la situación.",
-                "Tienes la capacidad de continuar con tu exposición."
+                "Tienes la capacidad de continuar con tu exposición.",
+                "Tienes que parar tu exposición y huir de la situación."
             ],
             "columnCount": 1,
             "answer": "Tienes la capacidad de continuar con tu exposición."

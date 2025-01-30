@@ -1,10 +1,14 @@
 {
-    "title": "Recurso: Relaciones Románticas",
-    "name": "Love is Respect (El Amor es Respeto)",
+    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Love is Respect (El Amor es Respeto)\n\nLove is Respect incluye mucha información apropiada para edades diversas acerca del consentimiento y relaciones sanas. También ofrece una línea de ayuda.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Piensas en las lecciones que aprendiste de las historias que lees hoy. Mirando hacia atrás a una situación reciente que te hizo ansioso, ¿cómo podrías haberlo pensado de una manera diferente para que fuera más fácil de manejar?"
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #5_entry"
         }
     ]
 }

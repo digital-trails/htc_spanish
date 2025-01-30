@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Recurso: Salud Física",
+    "name": "Substance Abuse and Mental Health Services Administration (SAMHSA) - Lista de Recursos bilingües en español",
     "elements": [
         {
             "type": "Text",
-            "text": "Para una situación reciente que te hizo ansioso, pregúntate: ¿Cómo podría haberlo pensado en otro momento, en otro estado de ánimo? ¿La forma en que pensaste al respecto se alineó con lo que realmente sucedió? ¿Hay alternativas? "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #8_entry"
+            "text": "Substance Abuse and Mental Health Services Administration (SAMHSA) - Lista de Recursos bilingües en español\n\nSAMHSA tiene sitio Web, pero no todo está traducido. La organización ofrece esta página de recursos que tienen servicios bilingües o tienen traducción.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "estarás financieramente estable con tus préstamos pagados.",
-                "seguirás agobiado por tus préstamos"
+                "seguirás agobiado por tus préstamos",
+                "estarás financieramente estable con tus préstamos pagados."
             ],
             "columnCount": 1,
             "answer": "seguirás agobiado por tus préstamos"

@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Recurso: Académicos/Trabajo/Desarrollo Profesional",
+    "name": "CareerOneStop: Reempleo del trabajador",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en algo que te causó ansiedad la primera vez que lo hiciste. ¿Qué estrategias te ayudaron a superar eso?"
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #1_entry"
+            "text": "CareerOneStop: Reempleo del trabajador\n\nEl portal de reempleo del trabajador incluye información estatal, capacitaciones, ayuda con la búsqueda de empleo, y más beneficios.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

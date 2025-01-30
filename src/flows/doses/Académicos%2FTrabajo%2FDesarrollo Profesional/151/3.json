@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Por debajo del promedio",
-                "Por encima del promedio"
+                "Por encima del promedio",
+                "Por debajo del promedio"
             ],
             "columnCount": 1,
             "answer": "Por encima del promedio"

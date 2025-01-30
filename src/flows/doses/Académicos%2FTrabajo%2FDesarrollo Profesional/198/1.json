@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Imaginas que estás impartiendo un taller sobre cómo pensar de manera flexible sobre situaciones ambiguas y potencialmente amenzantes. ¿Cuál sería tu mensaje para los participantes?"
+            "text": "Piensas en las lecciones que aprendiste de las historias que lees hoy. Mirando hacia atrás a una situación reciente que te hizo ansioso, ¿cómo podrías haberlo pensado de una manera diferente para que fuera más fácil de manejar?"
         },
         {
             "type": "Entry",
-            "name": "Consejo #6_entry"
+            "name": "Consejo #5_entry"
         }
     ]
 }

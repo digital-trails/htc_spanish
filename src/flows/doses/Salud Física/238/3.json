@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Te enfermas de todos modos.",
-                "Te mantienes sano."
+                "Te mantienes sano.",
+                "Te enfermas de todos modos."
             ],
             "columnCount": 1,
             "answer": "Te mantienes sano."

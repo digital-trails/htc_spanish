@@ -1,10 +1,10 @@
 {
-    "title": "Recurso: Salud Física",
-    "name": "Cuidado de Salud (Healthcare.gov)",
+    "title": "Maneja tus sentimientos: Salud Física",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuidado de Salud (Healthcare.gov)\n\nProporciona servicios relacionados con obtener seguro médico a través del Affordable Care Act\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Piense en momentos de su pasado en los que estuvo preocupado por un aspecto de su salud física que terminó siendo perfectamente normal."
         }
     ]
 }

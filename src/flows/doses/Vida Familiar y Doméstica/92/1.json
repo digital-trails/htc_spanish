@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Recurso: Vida Familiar y Doméstica",
+    "name": "Kid's Health",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about a scenario in your daily or weekly routine that makes you anxious. What strategies can you apply from this training to help calm your anxiety? Piensas en un escenario de tu rutina diaria o semanal que te ponga ansioso. ¿Qué estrategias puedes aplicar a partir de esta formación para ayudar a calmar tu ansiedad? "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #11_entry"
+            "text": "Kid's Health\n\nKid's Health es una organización sin fines de lucro que ofrece información revisada por doctores y con fuentes sustentadas. Hay secciones para padres, niños, y adolescentes.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

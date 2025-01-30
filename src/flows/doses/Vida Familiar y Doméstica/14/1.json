@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Vida Familiar y Doméstica",
-    "name": "Consejo para la regulación de las emociones",
+    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "En interacciones difíciles, concéntrate en lo que puedes controlar y define tus objetivos en términos de cómo abordas la situación. Recuerde que no puede controlar cómo se sienten y actúan otras personas."
+            "text": "Para una situación reciente que te hizo ansioso, pregúntate: ¿Cómo podría haberlo pensado en otro momento, en otro estado de ánimo? ¿La forma en que pensaste al respecto se alineó con lo que realmente sucedió? ¿Hay alternativas? "
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #8_entry"
         }
     ]
 }

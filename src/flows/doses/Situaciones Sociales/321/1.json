@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Situaciones Sociales",
-    "name": "Consejo para la regulación de las emociones",
+    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Trata de imaginarte a ti mismo como un extraño observando tu conversación. Pregúntate si pensarían en cómo te está yendo de la misma manera que a ti. "
+            "text": "Piensas en algo que te causó ansiedad la primera vez que lo hiciste. ¿Qué estrategias te ayudaron a superar eso?"
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #1_entry"
         }
     ]
 }

@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Recurso: Salud Física",
+    "name": "Guía de Métodos Anticonceptivos por el FDA",
     "elements": [
         {
             "type": "Text",
-            "text": "Reflexionas sobre las historias que acabas de leer y cómo se resolvieron las situaciones que provocan ansiedad. ¿Qué ves como algunos de las principales conclusiones? ¿Cual de estas nuevas formas de pensar podrías verte a ti mismo aplicando a tu propia vida, y por qué?"
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #2_entry"
+            "text": "Guía de Métodos Anticonceptivos por el FDA\n\nGuía de métodos anticonceptivos proporcionada por el FDA que compara todo tipo de anticonceptivos.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

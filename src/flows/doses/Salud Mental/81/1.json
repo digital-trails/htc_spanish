@@ -1,10 +1,10 @@
 {
-    "title": "Recurso: Salud Mental",
-    "name": "La Respiración Profunda",
+    "title": "Maneja tus sentimientos: Salud Mental",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "La Respiración Profunda\n\nExplica la respiración profunda paso a paso para lidiar con estrés y pánico.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Pruebe el método STOPP: S-Stop y pausa por un momento. T- Toma un respiro. O- Observa lo que estás sintiendo. P- Retroceder y poner la situación en perspectiva. P- Practica lo que funciona, haz algo que disfrutes/algo que te calme."
         }
     ]
 }

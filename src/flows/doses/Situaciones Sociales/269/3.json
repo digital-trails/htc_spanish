@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Irresponsable y nervioso.",
-                "Competente, a pesar de que cometiste un error."
+                "Competente, a pesar de que cometiste un error.",
+                "Irresponsable y nervioso."
             ],
             "columnCount": 1,
             "answer": "Competente, a pesar de que cometiste un error."

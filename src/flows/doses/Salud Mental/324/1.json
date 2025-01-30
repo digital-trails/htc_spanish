@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Salud Mental",
-    "name": "Consejo para la regulación de las emociones",
+    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Si se siente ansioso o nervioso, pregúntese: \"¿Qué me dice mi cerebro ansioso?\" Una vez que puedas identificar ese pensamiento, pregúntate: \"¿Es esto realista?\""
+            "text": "Para una situación reciente que te hizo ansioso, pregúntate: ¿Cómo podría haberlo pensado en otro momento, en otro estado de ánimo? ¿La forma en que pensaste al respecto se alineó con lo que realmente sucedió? ¿Hay alternativas? "
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #8_entry"
         }
     ]
 }

@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Estaban aburridos con tu presentación.",
-                "Estaban enfocados en tu presentación."
+                "Estaban enfocados en tu presentación.",
+                "Estaban aburridos con tu presentación."
             ],
             "columnCount": 1,
             "answer": "Estaban enfocados en tu presentación."

@@ -1,10 +1,10 @@
 {
-    "title": "Recurso: Salud Mental",
-    "name": "54321 Ejercicio Calmante",
+    "title": "Maneja tus sentimientos: Salud Mental",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "54321 Ejercicio Calmante\n\nEl ejercicio calmante 54321 te guía a través de cinco pasos para encontrar la calma.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Intenta identificar los TEB en tu situación: ¿qué PENSAMIENTOS tienes? ¿Qué EMOCIONES estás sintiendo? ¿Qué COMPORTAMIENTOS estás realizando? Después de eso, piensa si puedes cambiar tus pensamientos o tu comportamiento para sentirte mejor."
         }
     ]
 }

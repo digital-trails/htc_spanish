@@ -1,10 +1,14 @@
 {
-    "title": "Recurso: Vida Familiar y Doméstica",
-    "name": "Kid's Health",
+    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Kid's Health\n\nKid's Health es una organización sin fines de lucro que ofrece información revisada por doctores y con fuentes sustentadas. Hay secciones para padres, niños, y adolescentes.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Piensas en una situación en la que te encantaría estar, pero tienes demasiado miedo o ansiedad para ponerte en ella, aunque pueda llevar al crecimiento personal. ¿Qué estrategias podrías poner en práctica para ayudarte a llegar allí?"
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #10_entry"
         }
     ]
 }

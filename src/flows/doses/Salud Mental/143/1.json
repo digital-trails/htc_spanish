@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Maneja tus sentimientos: Salud Mental",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación próxima que quieras evitar porque te pone ansioso. ¿Cómo puedes pensarlo de manera diferente para que se sienta menos aterrador? "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #9_entry"
+            "text": "Trate de identificar qué emociones está sintiendo, así como su reacción ante esas emociones. Recuerde que no existe una emoción \"incorrecta\"."
         }
     ]
 }

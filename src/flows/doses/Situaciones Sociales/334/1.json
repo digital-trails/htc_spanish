@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Recurso: Situaciones Sociales",
+    "name": "Amaze",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Hay alguna situación que antes te daba miedo o te provocaba ansiedad, pero en la que ahora te sientes cómodo? ¿Qué te decías a ti mismo en esa situación? ¿Qué piensas ahora?"
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #3_entry"
+            "text": "Amaze\n\nBrinda información y videos divertidos y animados que responden a preguntas sobre el sexo, el cuerpo y las relaciones sanas. Útil para personas de todas las edades, incluyendo niños, adolescentes, y adultos. También puede ser utilizado por educadores, padres/cuidadores y personas LGBTQ+.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

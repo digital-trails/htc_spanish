@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Recurso: Académicos/Trabajo/Desarrollo Profesional",
+    "name": "Career One Stop",
     "elements": [
         {
             "type": "Text",
-            "text": "Reflexionas sobre las historias que acabas de leer y cómo se resolvieron las situaciones que provocan ansiedad. ¿Qué ves como algunos de las principales conclusiones? ¿Cual de estas nuevas formas de pensar podrías verte a ti mismo aplicando a tu propia vida, y por qué?"
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #2_entry"
+            "text": "Career One Stop\n\nCareer One Stop es una fuente de la exploración de la carrera, capacitación y empleo. Ofrece recursos informativos sobre el empleo para personas con experiencias y edades diversas, y tiene directorios para buscar ayuda local y empleo. También tiene un portal de reempleo del trabajador incluye información estatal, capacitaciones, ayuda con la búsqueda de empleo, y más beneficios.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

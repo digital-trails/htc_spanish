@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Maneja tus sentimientos: Salud Mental",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "Para una situación reciente que te hizo ansioso, pregúntate: ¿Cómo podría haberlo pensado en otro momento, en otro estado de ánimo? ¿La forma en que pensaste al respecto se alineó con lo que realmente sucedió? ¿Hay alternativas? "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #8_entry"
+            "text": "La tristeza es una respuesta natural cuando no podemos controlar una situación o hemos experimentado una pérdida. Si se siente triste, intente descubrir qué está causando ese sentimiento."
         }
     ]
 }

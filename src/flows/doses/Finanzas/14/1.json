@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Recurso: Finanzas",
+    "name": "211 (EEUU) en español",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando te encuentras saltando al peor de los casos sin toda la información, ¿cualés son algunas cosas que podrías decirte a ti mismo? Piensas en algunas habilidades de las historias que has leído que podrían ser útiles para ti. "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #4_entry"
+            "text": "211 (EEUU) en español\n\n211 conecta a personas en EEUU con recursos económicos locales.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

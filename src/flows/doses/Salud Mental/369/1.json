@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando te encuentras saltando al peor de los casos sin toda la información, ¿cualés son algunas cosas que podrías decirte a ti mismo? Piensas en algunas habilidades de las historias que has leído que podrían ser útiles para ti. "
+            "text": "Think about a scenario in your daily or weekly routine that makes you anxious. What strategies can you apply from this training to help calm your anxiety? Piensas en un escenario de tu rutina diaria o semanal que te ponga ansioso. ¿Qué estrategias puedes aplicar a partir de esta formación para ayudar a calmar tu ansiedad? "
         },
         {
             "type": "Entry",
-            "name": "Consejo #4_entry"
+            "name": "Consejo #11_entry"
         }
     ]
 }

@@ -1,10 +1,14 @@
 {
-    "title": "Recurso: Relaciones Románticas",
-    "name": "Cómo manejar la soledad después de un divorcio o una separación",
+    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Cómo manejar la soledad después de un divorcio o una separación\n\nEsta página brinda información para personas que buscan sobrellevar la soledad después de un divorcio o separación. Contiene preguntas frecuentes y consejos para mejorar la salud mental mientras la persona se adapta a su nueva circunstancia.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Piensas en una situación desafiante que se avecina pronto. ¿Cuáles son algunas de las maneras en que podrías aplicar lo que aprendiste en esta capacitación para manejar tu propia situación? "
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #7_entry"
         }
     ]
 }

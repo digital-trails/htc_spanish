@@ -15,7 +15,7 @@
             "incorrect_dealy": 5000,
             "buttons": [
                 "Sí",
-                ""
+                "No"
             ],
             "columnCount": 1,
             "answer": "Sí"

@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Maneja tus sentimientos: Finanzas",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "Imaginas que estás impartiendo un taller sobre cómo pensar de manera flexible sobre situaciones ambiguas y potencialmente amenzantes. ¿Cuál sería tu mensaje para los participantes?"
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #6_entry"
+            "text": "Identifique aspectos específicos de sus finanzas que le estén causando estrés y proponga objetivos para gestionar mejor esos factores estresantes (por ejemplo, si su presupuesto le está causando estrés, busque en Google herramientas de elaboración de presupuestos que puedan facilitar ese proceso)."
         }
     ]
 }

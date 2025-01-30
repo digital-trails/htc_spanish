@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Con el tiempo, pasarán y conocerás gente con la que disfrutarás pasar el rato.",
-                "Continuarán mientras vivas en esta ciudad."
+                "Continuarán mientras vivas en esta ciudad.",
+                "Con el tiempo, pasarán y conocerás gente con la que disfrutarás pasar el rato."
             ],
             "columnCount": 1,
             "answer": "Continuarán mientras vivas en esta ciudad."

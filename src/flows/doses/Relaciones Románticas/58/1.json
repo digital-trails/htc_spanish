@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en algo que te causó ansiedad la primera vez que lo hiciste. ¿Qué estrategias te ayudaron a superar eso?"
+            "text": "Cuando te encuentras saltando al peor de los casos sin toda la información, ¿cualés son algunas cosas que podrías decirte a ti mismo? Piensas en algunas habilidades de las historias que has leído que podrían ser útiles para ti. "
         },
         {
             "type": "Entry",
-            "name": "Consejo #1_entry"
+            "name": "Consejo #4_entry"
         }
     ]
 }

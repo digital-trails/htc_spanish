@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "No podrás encontrar la salida.",
-                "Aprenderás cosas interesantes."
+                "Aprenderás cosas interesantes.",
+                "No podrás encontrar la salida."
             ],
             "columnCount": 1,
             "answer": "Aprenderás cosas interesantes."

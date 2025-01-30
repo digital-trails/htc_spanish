@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Estás seriamente lesionado.",
-                "Estás mejorando."
+                "Estás mejorando.",
+                "Estás seriamente lesionado."
             ],
             "columnCount": 1,
             "answer": "Estás mejorando."

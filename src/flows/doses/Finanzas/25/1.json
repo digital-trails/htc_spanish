@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Maneja tus sentimientos: Finanzas",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en las lecciones que aprendiste de las historias que lees hoy. Mirando hacia atrás a una situación reciente que te hizo ansioso, ¿cómo podrías haberlo pensado de una manera diferente para que fuera más fácil de manejar?"
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #5_entry"
+            "text": "Si se enfrenta a dificultades financieras, dé un paso atrás y trate de identificar sobre qué tiene control (y sobre qué no). Por ejemplo, puede crear un presupuesto y realizar un seguimiento de sus gastos en el futuro, aunque es posible que no pueda devolver algo que ya compró."
         }
     ]
 }

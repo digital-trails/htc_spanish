@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Recurso: Salud Mental",
+    "name": "Latinx Therapists Action Network (LTAN)",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación que enfrentas regularmente que te cause algo de ansiedad. ¿Qué te sueles decir a ti mismo? ¿Hay otro pensamiento que puedas decirte a ti mismo que pueda hacer que sea menos provacador de ansiedad? "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #12_entry"
+            "text": "Latinx Therapists Action Network (LTAN)\n\nConecta a personas Latinas con terapeutas inclusivos y que promueven los derechos humanos y la dignidad para la comunidad Latina y de migrantes.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

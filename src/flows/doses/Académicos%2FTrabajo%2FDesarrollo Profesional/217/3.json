@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Planeando despedirte.",
-                "Planeando despedir a alguien más."
+                "Planeando despedir a alguien más.",
+                "Planeando despedirte."
             ],
             "columnCount": 1,
             "answer": "Planeando despedir a alguien más."

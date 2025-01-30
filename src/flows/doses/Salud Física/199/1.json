@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Salud Física",
-    "name": "Consejo para la regulación de las emociones",
+    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Cada cuerpo es diferente. Tómate un momento para apreciar todo lo que tu cuerpo hace para apoyarte durante la vida."
+            "text": "Reflexionas sobre las historias que acabas de leer y cómo se resolvieron las situaciones que provocan ansiedad. ¿Qué ves como algunos de las principales conclusiones? ¿Cual de estas nuevas formas de pensar podrías verte a ti mismo aplicando a tu propia vida, y por qué?"
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #2_entry"
         }
     ]
 }

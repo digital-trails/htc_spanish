@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Recurso: Salud Mental",
+    "name": "Anxiety and Depression Association of America",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about a scenario in your daily or weekly routine that makes you anxious. What strategies can you apply from this training to help calm your anxiety? Piensas en un escenario de tu rutina diaria o semanal que te ponga ansioso. ¿Qué estrategias puedes aplicar a partir de esta formación para ayudar a calmar tu ansiedad? "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #11_entry"
+            "text": "Anxiety and Depression Association of America\n\nADAA es una organización dedicada a la prevención, tratamiento y cura de la ansiedad, depresión, el trastorno obsesivo-compulsivo y trastornos similares a través de la educación, grupo de apoyo, y gráficos informativos.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

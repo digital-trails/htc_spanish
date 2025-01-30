@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Juzgar tu dificultad para respirar como algo malo o dañino.",
-                "Simplemente observe sus pensamientos y sensaciones de ansiedad sin juzgarlos."
+                "Simplemente observe sus pensamientos y sensaciones de ansiedad sin juzgarlos.",
+                "Juzgar tu dificultad para respirar como algo malo o dañino."
             ],
             "columnCount": 1,
             "answer": "Simplemente observe sus pensamientos y sensaciones de ansiedad sin juzgarlos."
