@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Salud Física",
-    "name": "Consejo para la regulación de las emociones",
+    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Dormir lo suficiente puede marcar una gran diferencia en cómo te sientes tanto física como mentalmente. Verifique su horario de sueño y vea si hay formas de aumentar el sueño. "
+            "text": "Piensas en una situación en la que te encantaría estar, pero tienes demasiado miedo o ansiedad para ponerte en ella, aunque pueda llevar al crecimiento personal. ¿Qué estrategias podrías poner en práctica para ayudarte a llegar allí?"
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #10_entry"
         }
     ]
 }

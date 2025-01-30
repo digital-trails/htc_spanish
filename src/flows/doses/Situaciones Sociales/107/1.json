@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Situaciones Sociales",
-    "name": "Consejo para la regulación de las emociones",
+    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Planea salir de tu zona de confort, aunque sea de una manera pequeña. A veces es útil pedirle a otra persona, como un amigo o un ser querido, que lo qyude a rendir cuentas. "
+            "text": "Reflexionas sobre las historias que acabas de leer y cómo se resolvieron las situaciones que provocan ansiedad. ¿Qué ves como algunos de las principales conclusiones? ¿Cual de estas nuevas formas de pensar podrías verte a ti mismo aplicando a tu propia vida, y por qué?"
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #2_entry"
         }
     ]
 }

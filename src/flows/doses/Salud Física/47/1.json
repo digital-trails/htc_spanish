@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Salud Física",
-    "name": "Consejo para la regulación de las emociones",
+    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Establezca una hora/fecha en la que tomará una decisión sobre si necesita consultar a un médico (por ejemplo, si todavía me siento mal dentro de 3 días, programaré una cita)"
+            "text": "Para una situación reciente que te hizo ansioso, pregúntate: ¿Cómo podría haberlo pensado en otro momento, en otro estado de ánimo? ¿La forma en que pensaste al respecto se alineó con lo que realmente sucedió? ¿Hay alternativas? "
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #8_entry"
         }
     ]
 }

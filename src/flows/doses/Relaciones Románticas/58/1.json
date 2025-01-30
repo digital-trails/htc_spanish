@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Recurso: Relaciones Románticas",
+    "name": "Inicios suaves: habilidad de comunicación",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando te encuentras saltando al peor de los casos sin toda la información, ¿cualés son algunas cosas que podrías decirte a ti mismo? Piensas en algunas habilidades de las historias que has leído que podrían ser útiles para ti. "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #4_entry"
+            "text": "Inicios suaves: habilidad de comunicación\n\nEsta hoja informativa ofrece consejos y ejemplos para mejorar la comunicación efectiva entre pareja.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

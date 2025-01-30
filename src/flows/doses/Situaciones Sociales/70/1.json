@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Situaciones Sociales",
-    "name": "Consejo para la regulación de las emociones",
+    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Antes de pasar el rato con alguien, plantifiques algunos temas de conversación para mencionar durante tu conversación."
+            "text": "Piensas en una situación que enfrentas regularmente que te cause algo de ansiedad. ¿Qué te sueles decir a ti mismo? ¿Hay otro pensamiento que puedas decirte a ti mismo que pueda hacer que sea menos provacador de ansiedad? "
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #12_entry"
         }
     ]
 }

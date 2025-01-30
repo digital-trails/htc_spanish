@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación desafiante que se avecina pronto. ¿Cuáles son algunas de las maneras en que podrías aplicar lo que aprendiste en esta capacitación para manejar tu propia situación? "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #7_entry"
+            "text": "Antes de comenzar a estudiar/trabajar, tómate un momento para anotar cómo te sientes y qué objetivos puedes alcanzar en función de cómo te sientes."
         }
     ]
 }

@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Maneja tus sentimientos: Situaciones Sociales",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en algo que te causó ansiedad la primera vez que lo hiciste. ¿Qué estrategias te ayudaron a superar eso?"
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #1_entry"
+            "text": "Renovar viejas amistades puede ser tan gratificante como comenzar otras nuevas. "
         }
     ]
 }

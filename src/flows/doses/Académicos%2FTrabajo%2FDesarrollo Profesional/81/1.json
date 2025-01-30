@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
-    "name": "Consejo para la regulación de las emociones",
+    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Si una tarea en particular te parece desalentadora, elige un momento determinado del día en el que te sientas más motivado para intentar completarla."
+            "text": "Cuando te encuentras saltando al peor de los casos sin toda la información, ¿cualés son algunas cosas que podrías decirte a ti mismo? Piensas en algunas habilidades de las historias que has leído que podrían ser útiles para ti. "
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #4_entry"
         }
     ]
 }

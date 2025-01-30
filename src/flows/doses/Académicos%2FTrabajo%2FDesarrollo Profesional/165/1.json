@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
-    "name": "Consejo para la regulación de las emociones",
+    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Si algunos aspectos de su carrera le resultan abrumadores, recuerde que no es necesario que lo tenga todo resuelto ahora mismo. Sólo puedes controlar lo que estás haciendo en el momento presente."
+            "text": "Piensas en una situación próxima que quieras evitar porque te pone ansioso. ¿Cómo puedes pensarlo de manera diferente para que se sienta menos aterrador? "
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #9_entry"
         }
     ]
 }

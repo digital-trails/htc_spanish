@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Maneja tus sentimientos: Relaciones Románticas",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación desafiante que se avecina pronto. ¿Cuáles son algunas de las maneras en que podrías aplicar lo que aprendiste en esta capacitación para manejar tu propia situación? "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #7_entry"
+            "text": "Si te has sentido molesto en tu relación, trata de expresar claramente lo que necesitas o cómo te sientes a tu pareja, mientras estás abierto a su perspectiva. "
         }
     ]
 }

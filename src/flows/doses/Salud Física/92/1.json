@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Recurso: Salud Física",
+    "name": "SmokeFree - ES",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación que enfrentas regularmente que te cause algo de ansiedad. ¿Qué te sueles decir a ti mismo? ¿Hay otro pensamiento que puedas decirte a ti mismo que pueda hacer que sea menos provacador de ansiedad? "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #12_entry"
+            "text": "SmokeFree - ES\n\nSmokeFree ofrece consejos y apoyo para dejar de fumar. Brinda formas alternativas de lidiar con el estrés, lidiar con los factores desencadenantes del tabaquismo y puede ayudar a los Texters a contar cuánto tiempo han estado sin fumar\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

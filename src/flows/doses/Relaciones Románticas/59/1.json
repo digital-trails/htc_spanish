@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Maneja tus sentimientos: Relaciones Románticas",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en las lecciones que aprendiste de las historias que lees hoy. Mirando hacia atrás a una situación reciente que te hizo ansioso, ¿cómo podrías haberlo pensado de una manera diferente para que fuera más fácil de manejar?"
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #5_entry"
+            "text": "Usa frases en primera persona (Yo siento ___ porque ___) cuando comuniques tus emociones a tu pareja. Y, trate de no usar declaraciones \"tú\" (Estás siendo). "
         }
     ]
 }

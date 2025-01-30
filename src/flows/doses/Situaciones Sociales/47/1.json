@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación que enfrentas regularmente que te cause algo de ansiedad. ¿Qué te sueles decir a ti mismo? ¿Hay otro pensamiento que puedas decirte a ti mismo que pueda hacer que sea menos provacador de ansiedad? "
+            "text": "Piensas en una situación en la que te encantaría estar, pero tienes demasiado miedo o ansiedad para ponerte en ella, aunque pueda llevar al crecimiento personal. ¿Qué estrategias podrías poner en práctica para ayudarte a llegar allí?"
         },
         {
             "type": "Entry",
-            "name": "Consejo #12_entry"
+            "name": "Consejo #10_entry"
         }
     ]
 }

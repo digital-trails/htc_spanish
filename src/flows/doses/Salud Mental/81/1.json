@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Salud Mental",
-    "name": "Consejo para la regulación de las emociones",
+    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Pruebe el método STOPP: S-Stop y pausa por un momento. T- Toma un respiro. O- Observa lo que estás sintiendo. P- Retroceder y poner la situación en perspectiva. P- Practica lo que funciona, haz algo que disfrutes/algo que te calme."
+            "text": "Piensas en una situación próxima que quieras evitar porque te pone ansioso. ¿Cómo puedes pensarlo de manera diferente para que se sienta menos aterrador? "
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #9_entry"
         }
     ]
 }

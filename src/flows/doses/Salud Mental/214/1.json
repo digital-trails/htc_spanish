@@ -1,10 +1,14 @@
 {
-    "title": "Recurso: Salud Mental",
-    "name": "988/Lifeline (Línea Nacional de Prevención del Suicidio)",
+    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "988/Lifeline (Línea Nacional de Prevención del Suicidio)\n\nProporciona una línea de ayuda 24/7 donde personas pueden llamar por teléfono y tener conversaciones gratuitas y confidenciales. La línea apoya a personas en crisis o aquellos pensando en el suicidio. Para texters que prefieren hablar por teléfono. Llama a 988 o visita el enlace.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Piensas en una situación que enfrentas regularmente que te cause algo de ansiedad. ¿Qué te sueles decir a ti mismo? ¿Hay otro pensamiento que puedas decirte a ti mismo que pueda hacer que sea menos provacador de ansiedad? "
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #12_entry"
         }
     ]
 }

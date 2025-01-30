@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Maneja tus sentimientos: Finanzas",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about a scenario in your daily or weekly routine that makes you anxious. What strategies can you apply from this training to help calm your anxiety? Piensas en un escenario de tu rutina diaria o semanal que te ponga ansioso. ¿Qué estrategias puedes aplicar a partir de esta formación para ayudar a calmar tu ansiedad? "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #11_entry"
+            "text": "Cuando sienta la necesidad de comprar algo que no puede pagar, preste atención a cómo se siente la necesidad y practique tolerar las sensaciones hasta que pasen."
         }
     ]
 }

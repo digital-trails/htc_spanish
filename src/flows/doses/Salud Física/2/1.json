@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Salud Física",
-    "name": "Consejo para la regulación de las emociones",
+    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Si nota que su corazón se acelera o tiene problemas para respirar, pregúntese si podría haber una explicación perfectamente inofensiva de por qué su cuerpo reacciona de esa manera (por ejemplo, ¿acaba de subir un tramo de escaleras?)"
+            "text": "Piensas en una situación desafiante que se avecina pronto. ¿Cuáles son algunas de las maneras en que podrías aplicar lo que aprendiste en esta capacitación para manejar tu propia situación? "
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #7_entry"
         }
     ]
 }

@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Recurso: Situaciones Sociales",
+    "name": "Acceso Latino",
     "elements": [
         {
             "type": "Text",
-            "text": "Para una situación reciente que te hizo ansioso, pregúntate: ¿Cómo podría haberlo pensado en otro momento, en otro estado de ánimo? ¿La forma en que pensaste al respecto se alineó con lo que realmente sucedió? ¿Hay alternativas? "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #8_entry"
+            "text": "Acceso Latino\n\nAcceso Latino, parte de la Fundación Carlos Slim, comparte ofrece páginas para orientación legal, información acerca de apoyos sociales, trámites legales, y más asesorías para inmigrantes en Estados Unidos. También contiene enlaces directos a los consulados de países latinoamericanos.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

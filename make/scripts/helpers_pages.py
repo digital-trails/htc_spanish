@@ -5,6 +5,8 @@ from itertools import islice
 
 from helpers_utilities import get_lessons_learned_text, clean_up_unicode, has_value, is_yesno, is_int
 
+random.seed(1) #give a fixed seed so that diffs don't make it look like we changed a lot every time we generate
+
 dir_root = "./make"
 dir_csv  = f"{dir_root}/CSV"
 file_path = f"{dir_csv}/Spanish lessons_learned_text.csv"

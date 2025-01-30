@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Recurso: Vida Familiar y Doméstica",
+    "name": "Cómo afrontar el cuidado de un padre que se está haciendo mayor",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación en la que te encantaría estar, pero tienes demasiado miedo o ansiedad para ponerte en ella, aunque pueda llevar al crecimiento personal. ¿Qué estrategias podrías poner en práctica para ayudarte a llegar allí?"
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #10_entry"
+            "text": "Cómo afrontar el cuidado de un padre que se está haciendo mayor\n\nEsta página de MHA comparte información acerca la generación “sándwich” quienes a menudo son padres de familia cuidando de sus padres y sus hijos menores de edad. Contiene una lista de consejos de como dar prioridad a las tareas del hogar, como cuidar de sí mismo, y más.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

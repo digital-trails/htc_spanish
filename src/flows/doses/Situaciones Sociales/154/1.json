@@ -1,14 +1,10 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "title": "Recurso: Situaciones Sociales",
+    "name": "Alianza Americas: Caja de herramientas",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en las lecciones que aprendiste de las historias que lees hoy. Mirando hacia atrás a una situación reciente que te hizo ansioso, ¿cómo podrías haberlo pensado de una manera diferente para que fuera más fácil de manejar?"
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #5_entry"
+            "text": "Alianza Americas: Caja de herramientas\n\nLa misión de Alianza Americas, una organización transnacional, es crear una vida “más inclusiva, equitativa, y sostenible” para inmigrantes latinoamericanos en los Estados Unidos. Su Caja de herramientas contiene toolkits (guías) informativas y enlaces a recursos para temas de interés a personas latinoamericanas.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

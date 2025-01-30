@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Finanzas",
-    "name": "Consejo para la regulación de las emociones",
+    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Si hay alguien (amigo, familiar, colega, asesor/jefe, etc.) con quien se siente cómodo confiándole su situación financiera actual, pregúntele si puede hablar con él sobre cómo se siente y si puede ofrecerle algún consejo."
+            "text": "Piensas en algo que te causó ansiedad la primera vez que lo hiciste. ¿Qué estrategias te ayudaron a superar eso?"
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #1_entry"
         }
     ]
 }

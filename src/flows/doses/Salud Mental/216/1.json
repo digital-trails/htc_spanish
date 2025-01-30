@@ -1,10 +1,10 @@
 {
-    "title": "Recurso: Salud Mental",
-    "name": "Cuaderno: Guía de salud mental",
+    "title": "Maneja tus sentimientos: Salud Mental",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuaderno: Guía de salud mental\n\nEsta guía cubre todo tipo de información acerca de la salud mental, incluyendo secciones sobre trastornos, recursos, y consejos para sobrellevar síntomas y estrés.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "¿Hay algún momento durante los próximos dos días en el que cree que se sentirá ansioso? Considere configurar una alarma para recordar que debe practicar el pensamiento flexible en ese momento."
         }
     ]
 }
